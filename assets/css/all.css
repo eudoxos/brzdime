@@ -885,6 +885,8 @@ html[dir="rtl"] body {
 
 /* move floating contents away from the text body */
 .topic.contents { margin: 0.5em 1em; }
+/* GH pages builds with different engine? needs this: */
+nav#contents { margin: 0.5em 1em; } 
 
 blockquote p { font-size: 1.0rem; font-style: italic; }
 
