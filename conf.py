@@ -688,8 +688,8 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_SOURCE_BRANCH = 'main'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'
@@ -731,17 +731,21 @@ GITHUB_COMMIT_SOURCE = True
 # <https://getnikola.com/handbook.html#post-processing-filters>
 #
 
-from nikola import filters
-import string
-FILTERS = {
-   ".html": [
-        filters.typogrify,
-        filters.add_header_permalinks,
-        filters.apply_to_text_file(lambda s: s.replace("Contents","Obsah"))
-   ],
+# for deploying at GitHub
+# https://github.com/getnikola/nikola-action/blob/master/README.md#caveats
+try:
+    from nikola import filters
+    import string
+    FILTERS = {
+       ".html": [
+            filters.typogrify,
+            filters.add_header_permalinks,
+            filters.apply_to_text_file(lambda s: s.replace("Contents","Obsah"))
+       ],
 #    ".js": [filters.closure_compiler],
 #    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
-}
+    }
+except ImportError: FILTERS={}
 
 # Executable for the "yui_compressor" filter (defaults to 'yui-compressor').
 # YUI_COMPRESSOR_EXECUTABLE = 'yui-compressor'
