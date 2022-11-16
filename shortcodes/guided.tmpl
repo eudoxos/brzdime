@@ -1,0 +1,23 @@
+{% macro stripext(s) -%}{{ s[:s.rfind('.')] if '.' in s else s }}{% endmacro %}
+{% macro getext(s) -%}{{ s[s.rfind('.')+1:] if '.' in s else s }}{% endmacro %}
+
+
+<div class="card border-primary mb-3">
+	<div class="card-header">
+		<h3 class="card-title" style="display: inline-block;">{{ title }}</h3><span class="card-subtitle" style="float: right;">{{ length }}</span>
+	</div>
+	<div class="card-body" style="display: flex;">
+		<audio controls style="width: 100%;">
+			{% for fmt in (formats.split(',') if formats is defined else [getext(src)]) %}
+				<source src="{{ '{}.{}'.format(stripext(src), fmt) }}" type="audio/{{ fmt }}" />
+			{% endfor %}
+			<p>Váš prohlížeč nepodporuje HTML element <code>audio</code>. Můžete si <a href="{{ src }}" download>nahrávku stáhnout </a>.</p>
+		</audio>
+		{% for fmt in (formats.split(',') if formats is defined else [getext(src)]) %}
+			<a class="btn btn-info" href="{{ '{}.{}'.format(stripext(src), fmt) }}" download>{{ fmt }}<strong>⤓</strong></a>
+		{% endfor %}
+	</div>
+	<div class="card-footer">
+		{{ data }}
+	</div>
+</div>
