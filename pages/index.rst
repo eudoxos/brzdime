@@ -14,7 +14,7 @@
 .. admonition:: Jste zde poprvé?
    :class: tip
 
-   Doporučujeme `Startovací balíček <link://slug/mbrpra-start>`__.
+   Doporučujeme `Startovací balíček <link://slug/start>`__.
 
 Pravidelná setkání probíhají normálně.
 
