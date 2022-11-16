@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="cs">
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="cs">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>brzdíme.cz | Brzdíme.cz</title>
 <link href="assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
 <meta name="theme-color" content="#ff0000">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="canonical" href="https://brzdime.lessstress.cz/">
@@ -35,29 +36,23 @@ Doporučujeme Startovac">
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Přeskočit na hlavní obsah</a>
 
-<!-- Header and menu bar -->
-<div class="container">
-      <header class="blog-header py-3"><div class="row nbb-header align-items-center">
-          <div class="col-md-3 col-xs-2 col-sm-2" style="width: auto;">
-            <button class="navbar-toggler navbar-light bg-light nbb-navbar-toggler" type="button" data-toggle="collapse" data-target=".bs-nav-collapsible" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse bs-nav-collapsible bootblog4-search-form-holder">
-                
-            </div>
-        </div>
-          <div class="col-md-6 col-xs-10 col-sm-10 bootblog4-brand" style="width: auto;">
-            <a class="navbar-brand blog-header-logo text-dark" href=".">
+<!-- Menubar -->
+
+<nav class="navbar navbar-expand-md static-top mb-4
+navbar-dark
+bg-dark
+"><div class="container">
+<!-- This keeps the margins nice -->
+        <a class="navbar-brand" href=".">
 
             <span id="blog-title">Brzdíme.cz</span>
         </a>
-          </div>
-            <div class="col-md-3 justify-content-end align-items-center bs-nav-collapsible collapse flex-collapse bootblog4-right-nav">
-            <nav class="navbar navbar-light bg-white"><ul class="navbar-nav bootblog4-right-nav"></ul></nav>
-</div>
-    </div>
-</header><nav class="navbar navbar-expand-md navbar-light bg-white static-top"><div class="collapse navbar-collapse bs-nav-collapsible" id="bs-navbar">
-            <ul class="navbar-nav nav-fill d-flex w-100">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="bs-navbar">
+            <ul class="navbar-nav mr-auto">
 <li class="nav-item">
 <a href="start/" class="nav-link">Startovací balíček</a>
                 </li>
@@ -67,21 +62,18 @@ Doporučujeme Startovac">
                 
             </li>
 </ul>
+<ul class="navbar-nav navbar-right"></ul>
 </div>
 <!-- /.navbar-collapse -->
-</nav>
-</div>
-
-<div class="container" id="content" role="main">
+    </div>
+<!-- /.container -->
+</nav><!-- End of Menubar --><div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
-        
-        
         
 <article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">brzdíme.cz</a></h1>
 
         
-
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <nav class="contents float-right" id="contents" role="doc-toc"><p class="topic-title">Obsah</p>
 <ul class="simple">
@@ -103,318 +95,198 @@ Doporučujeme Startovac">
 <li><p>Online setkávání i materiály poskytujeme s nadějí, že z nich budete mít prospěch. Nepřebíráme však odpovědnost za následky — používáte je na vlastní riziko.</p></li>
 <li><p>Materiály (nahrávky i dokumenty) jsou volně k dispozici pouze pro nekomerční použití.</p></li>
 </ul></section><section id="cviceni"><h2><a class="toc-backref" href="#toc-entry-2" role="doc-backlink">Cvičení</a><a href="#cviceni" class="headerlink" title="Permalink to this heading">¶</a></h2>
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="1-brzda">1. <span class="caps">BRZDA</span><a href="#1-brzda" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">05:28</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-01-brzda.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-01-brzda.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-01-brzda.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Pět kroků zkratky: Brzdi, Roz-vhled, Zakotvi se, Doširoka se otevři, Akce. Cvičení, které je vždy po ruce a lze ho udělat i během několika vteřin v náročné situaci. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="2-napojeni-na-sebe">2. Napojení na sebe<a href="#2-napojeni-na-sebe" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">13:56</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-02-napojeni.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-02-napojeni.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-02-napojeni.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Vnímání toho, co se děje v mém těle a mysli, následované zaměřením pozornosti na dech. Cvičení zařazené na začátku každého setkání. Je možné ho často opakovat.
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="3-jizda-na-vlne-nutkani">3. Jízda na vlně nutkání<a href="#3-jizda-na-vlne-nutkani" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">06:37</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-03-vlna.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-03-vlna.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-03-vlna.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Všímavě se držet na vlně nutkání či bažení, jak v čase sama zesiluje a zase slábne. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="4-meditace-laskavosti">4. Meditace laskavosti<a href="#4-meditace-laskavosti" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">16:59</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-04-laskavost.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-04-laskavost.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-04-laskavost.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		Posílání myšlenek a přání laskavosti a soucitu sobě a ostatním. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="5-bodyscan">5. Bodyscan<a href="#5-bodyscan" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">09:58</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-05-bodyscan.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-05-bodyscan.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-05-bodyscan.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Procházení těla pozorností, přinášení zvídavosti k tělesným vjemům, i těm nepříjemným. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="6-meditace-s-dechem">6. Meditace s dechem<a href="#6-meditace-s-dechem" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">11:42</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-06-dech.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-06-dech.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-06-dech.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Dech jako kotva pozornosti, uvědomování si toulání mysli a učení se vracení se ze zamotaných myšlenek. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="7-hodnoty">7. Hodnoty<a href="#7-hodnoty" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">11:58</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-07-hodnoty.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-07-hodnoty.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-07-hodnoty.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Reflexe vlastních hodnot, podle kterých chci ve svém životě se rozhodovat a jednat. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="8-meditace-o-hore">8. Meditace o hoře<a href="#8-meditace-o-hore" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">11:05</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-08-hora.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-08-hora.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-08-hora.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Vizualizace k rozvinutí pocitu síly a stability. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="9-vsimave-jedeni">9. Všímavé jedení<a href="#9-vsimave-jedeni" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">08:53</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-09-jedeni.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-09-jedeni.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-09-jedeni.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Zakotvení v bezprostředních vjemech při jídle. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="10-vsimavy-pohyb">10. Všímavý pohyb<a href="#10-vsimavy-pohyb" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">15:15</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-10-pohyb.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-10-pohyb.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-10-pohyb.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Pěstování zvídavé pozornosti k tělesným vjemům při jemných pohybech a protahování. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="11-vsimava-chuze">11. Všímavá chůze<a href="#11-vsimava-chuze" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">13:58</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-11-chuze.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-11-chuze.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-11-chuze.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Zvídavá pozornost k smyslovým vjemům při chůzi. 
 	</div>
 </div>
-
-<p>{% macro stripext(s) -%}{{ s[:s.rfind(‘.’)] if ‘.’ in s else s }}{% endmacro %}
-{% macro getext(s) -%}{{ s[s.rfind(‘.’)+1:] if ‘.’ in s else s }}{% endmacro %}
-
+<p>
 
 </p>
 <div class="card border-primary mb-3">
 	<div class="card-header">
-		<h4 class="card-title" style="display: inline-block;" id="title">{{ title }}<a href="#title" class="headerlink" title="Permalink to this heading">¶</a></h4>
-<span class="card-subtitle" style="float: right;">{{ length }}</span>
+		<h4 class="card-title" style="display: inline-block;" id="12-pet-smyslu">12. Pět smyslů<a href="#12-pet-smyslu" class="headerlink" title="Permalink to this heading">¶</a></h4>
+<span class="card-subtitle" style="float: right;">10:35</span>
 	</div>
 	<div class="card-body" style="display: flex;">
-		<audio controls style="width: 100%;">
-			{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-				<source src="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" type="audio/{{ fmt }}"></source>
-			{% endfor %}
-			<p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="%7B%7B%20src%20%7D%7D" download>nahrávku stáhnout </a>.</p>
-		</audio>
-		{% for fmt in (formats.split(‘,’) if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="%7B%7B%20'%7B%7D.%7B%7D'.format(stripext(src),%20fmt)%20%7D%7D" download>{{ fmt }}<strong>⤓</strong></a>
-		{% endfor %}
+		<audio controls style="width: 100%;"><source src="audio/brzdime.cz-12-smysly.mp3" type="audio/mp3"></source><p>Váš prohlížeč nepodporuje <span class="caps">HTML</span> element <code>audio</code>. Můžete si <a href="audio/brzdime.cz-12-smysly.mp3" download>nahrávku stáhnout </a>.</p>
+		</audio><a class="btn btn-info" href="audio/brzdime.cz-12-smysly.mp3" download>mp3<strong>⤓</strong></a>
 	</div>
 	<div class="card-footer">
-		{{ data }}
+		 Postupné prozkoumání, co vnímáme všemi pěti smysly. 
 	</div>
 </div>
-
 <p>Nahrávky byly přeložené z <a class="reference external" href="https://practicembrp.com">practiceMBRP.com</a>.</p>
 </section><section id="tydenni-online-setkani"><h2><a class="toc-backref" href="#toc-entry-3" role="doc-backlink">Týdenní online setkání</a><a href="#tydenni-online-setkani" class="headerlink" title="Permalink to this heading">¶</a></h2>
 <p>Setkání skupiny probíhají online každé <strong>__úterý v 17:00-18:30 [??]__</strong> hodin, přes adresu ___ [technické detaily]. Setkání vždy vede <a class="reference external" href="https://lessstress.cz/cs/teachers">někdo z nás</a>.</p>
@@ -435,7 +307,7 @@ Doporučujeme Startovac">
 <p>Ke každému setkání si můžete stáhnout pracovní listy k tématu (2–4 strany A4) — obsahují shrnutí tématu setkání, doporučená cvičení, krátké texty a tabulku pro záznam cvičení — odkazy na <span class="caps">PDF</span> jsou v tabulce níže. <a class="reference external" href="doc/brzdime-sezeni-vsechno.pdf">Zde si stáhněte celý komplet v <span class="caps">PDF</span>.</a></p>
 <p>Je-li pro vás těžké si pracovní listy vytisknout, napište nám mail — rádi Vám pošleme celý vytištěný komplet poštou, na naše náklady.</p>
 </section><section id="kalendar-setkani"><h2><a class="toc-backref" href="#toc-entry-5" role="doc-backlink">Kalendář setkání</a><a href="#kalendar-setkani" class="headerlink" title="Permalink to this heading">¶</a></h2>
-<p>Setkání cyklicky procházejí osm hlavních témat, podle čísla týdnu v roce. <span id="{{ id }}"></span>
+<p>Setkání cyklicky procházejí osm hlavních témat, podle čísla týdnu v roce. <span id="week-of-year"></span>
 <script>
   /* https://weeknumber.com/how-to/javascript */
   thisWeekNumber = function() {
@@ -448,7 +320,7 @@ Doporučujeme Startovac">
     // Adjust to Thursday in week 1 and count number of weeks from date to week1.
     return 1 + Math.round(((date.getTime() - week1.getTime()) / 86400000 - 3 + (week1.getDay() + 6) % 7) / 7);
   }
-  document.getElementById("{{ id }}").innerHTML="Dnes je "+(new Date()).toLocaleDateString("cs-CZ")+", týden č. "+thisWeekNumber().toString()+".";
+  document.getElementById("week-of-year").innerHTML="Dnes je "+(new Date()).toLocaleDateString("cs-CZ")+", týden č. "+thisWeekNumber().toString()+".";
 </script></p>
 <table class="table table-hover">
 <thead><tr>
@@ -518,15 +390,12 @@ Doporučujeme Startovac">
 </table></section>
 </div>
     
-
 </article><!--End of body content--><footer id="footer">
             Obsah © 2022         <a href="mailto:info@lessstress.cz">lessstress.cz</a>
-            
             
         </footer>
 </div>
 </div>
-
 
         <script src="assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
