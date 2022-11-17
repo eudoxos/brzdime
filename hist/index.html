@@ -38,6 +38,9 @@ bg-dark
                 </li>
 <li class="nav-item">
 <a href="../mbrp/" class="nav-link">Program <span class="caps">MBRP</span></a>
+                </li>
+<li class="nav-item">
+<a href="../about/" class="nav-link">O projektu</a>
 
                 
             </li>
@@ -72,6 +75,15 @@ bg-dark
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
-    </script>
+    </script><script>
+document.addEventListener('play', function(e){
+    var audios = document.getElementsByTagName('audio');
+    for(var i = 0, len = audios.length; i < len;i++){
+        if(audios[i] != e.target){
+            audios[i].pause();
+        }
+    }
+}, true);
+</script>
 </body>
 </html>

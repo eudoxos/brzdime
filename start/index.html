@@ -34,7 +34,7 @@ Moje motivace ke cvičení 🖉
 Program MBRP
 Program ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2022-11-16T22:21:10+01:00">
+<meta property="article:published_time" content="2022-11-17T18:29:41+01:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Přeskočit na hlavní obsah</a>
@@ -61,6 +61,9 @@ bg-dark
                 </li>
 <li class="nav-item">
 <a href="../mbrp/" class="nav-link">Program <span class="caps">MBRP</span></a>
+                </li>
+<li class="nav-item">
+<a href="../about/" class="nav-link">O projektu</a>
 
                 
             </li>
@@ -355,6 +358,15 @@ z uvedených možností, případně dopište své vlastní osobní motivy.</p>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
-    </script>
+    </script><script>
+document.addEventListener('play', function(e){
+    var audios = document.getElementsByTagName('audio');
+    for(var i = 0, len = audios.length; i < len;i++){
+        if(audios[i] != e.target){
+            audios[i].pause();
+        }
+    }
+}, true);
+</script>
 </body>
 </html>

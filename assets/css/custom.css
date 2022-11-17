@@ -1,9 +1,13 @@
 /* move floating contents away from the text body */
 .topic.contents { margin: 0.5em 1em; }
-/* GH pages builds with different engine? needs this: */
+/* GH pages builds with different engine (docutils 0.17 vs. 1.19: force 0.17 in requriements.txt)? needs this: */
 nav#contents { margin: 0.5em 1em; } 
 
 blockquote p { font-size: 1.0rem; font-style: italic; }
+
+/* no indent for admonitions, they will look like cards then */
+
+.admonition { margin: 1em 0em !important; }
 
 /* Header permalinks */
 h1:hover .headerlink, h2:hover .headerlink,
