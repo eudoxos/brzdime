@@ -1,4 +1,5 @@
-.. title: brzdíme.cz
+.. title: brzdíme.cz  🏗
+
 .. date: 2022-10-22 12:32
 .. slug: index
 
@@ -6,17 +7,20 @@
    :class: float-right
 
 
-.. admonition:: Jste na staveništi!
+.. admonition:: 🚧 Pozor, staveniště!
    :class: warning
 
-   Zatím se nic neděje. Doména brzdime.cz zatím nefunguje.
+   Zatím se nic neděje: doména brzdime.cz nefunguje, pravidelná setkání neprobíhají.
 
-.. admonition:: Jste zde poprvé?
+.. admonition:: 💡 Jste zde poprvé?
    :class: tip
 
    Doporučujeme `Startovací balíček <link://slug/start>`__.
 
-Pravidelná setkání probíhají normálně.
+.. admonition:: 📢 Aktuality
+   :class: info
+
+   Pravidelná setkání probíhají normálně, podle `kalendáře <#kalendar-setkani>`_.
 
 Odpovědnost
 ===========
@@ -83,6 +87,8 @@ Pokud jste byli na setkání poprvé, přečtěte si `startovací balíček <htt
 Ke každému setkání si můžete stáhnout pracovní listy k tématu (2–4 strany A4) — obsahují shrnutí tématu setkání, doporučená cvičení, krátké texty a tabulku pro záznam cvičení — odkazy na PDF jsou v tabulce níže. `Zde si stáhněte celý komplet v PDF. <doc/brzdime-sezeni-vsechno.pdf>`__
 
 Je-li pro vás těžké si pracovní listy vytisknout, napište nám mail — rádi Vám pošleme celý vytištěný komplet poštou, na naše náklady.
+
+.. _kalendář:
 
 Kalendář setkání
 ================

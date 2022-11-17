@@ -143,6 +143,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/start/","Startovací balíček"),
         ("/mbrp/","Program MBRP"),
+        ("/about/","O projektu"),
         # ("/archive.html", "Archiv"),
         #("/categories/", "Štítky"),
         #("/rss.xml", "RSS zdroj"),
@@ -1285,7 +1286,21 @@ USE_CDN = False
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+
+# pause other players when one starts playing, from https://stackoverflow.com/a/19792168
+BODY_END = '''
+<script>
+document.addEventListener('play', function(e){
+    var audios = document.getElementsByTagName('audio');
+    for(var i = 0, len = audios.length; i < len;i++){
+        if(audios[i] != e.target){
+            audios[i].pause();
+        }
+    }
+}, true);
+</script>
+
+'''
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
