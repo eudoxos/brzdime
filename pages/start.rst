@@ -57,7 +57,7 @@ Výzkum ukazuje, že učení se a cvičení všímavosti:
 
 Výsledky výzkumu MBRP jsou podrobněji popsané v článcích odkázaných na
 stránce `Prevence relapsu pomocí všímavosti (MBRP) /
-Literatura <https://lessstress.cz/cs/mbrp/#literatura>`__.
+Literatura <link://slug/mbrp#literatura>`__.
 
 Cvičení
 =======
@@ -68,8 +68,7 @@ Formální
 Nahraných cvičení je celkem 12. Na každém setkání skupiny doporučíme
 cvičení do dalšího týdne.
 
--  Všechny nahrávky najdete na **brzdime.cz** [`stránka zatím
-   zde <https://lessstress.cz/brzdime/>`__], kde si je můžete i pustit
+-  Všechny nahrávky najdete na `brzdime.lessstress.cz <link://slug/index>`__, kde si je můžete i pustit
    (z telefonu či počítače).
 -  Nahrávky si můžete i stáhnout a přehrát jiným způsobem, který Vám
    více vyhovuje (offline z telefonu, MP3 přehrávač, …).
@@ -81,8 +80,7 @@ takto:
 
       Přibližně 6 dní v týdnu poslouchám 5–10 minut nahraných cvičení.
       Cvičím před snídaní. V sedě na židli. Cvičit každý den ve stejný
-      čas mi pomáhá na cvičení nezapomenout. Otevřu si **brzdime.cz**
-      [`stránka zatím zde <https://lessstress.cz/brzdime/>`__] na
+      čas mi pomáhá na cvičení nezapomenout. Otevřu si `brzdime.lessstress.cz <link://slug/index>`__ na
       telefonu a tam si nahrávky pouštím. Cvičení všímavosti je součást
       mého života, protože mi pomáhá více si uvědomovat, co se děje, a
       díky tomu se mohu lépe udržet na cestě zotavení.
@@ -97,7 +95,7 @@ takto:
       držím pravidelného cvičení, cítím se více ukotvená a lépe zvládám
       stres, který se v mém životě objeví.
 
-[TODO: seznam cvičení i zde?]
+Cvičení s krátkými popisky najdete na `hlavní stránce <link://slug/index#cviceni>`__.
 
 Neformální
 ----------
