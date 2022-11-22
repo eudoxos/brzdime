@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 import time
 
 # !! This is the configuration of Nikola. !! #
