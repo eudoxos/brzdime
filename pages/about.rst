@@ -9,11 +9,13 @@ Všímavost / mindfulness znamená průběžnou orientovanost ve vlastním prož
 Smyslem projektu je prevence závislostí v širokém smyslu (včetně závislostního chování, např. jídlo, práce, sebepoškozování, …) a doléčování.
 
 
-.. admonition:: 💸 Dary
+Dary
+======
+
+.. admonition:: 💸 Darujte `přes donio.cz <https://donio.cz/brzdime-cz>`__ 💸
    :class: info
 
-   Projekt žije z Vašich dobrovolných darů. Pokud ho chcete podpořit, ať už ze sympatie či vlastního užitku, můžete tak učinit online:
-
+   Projekt žije z Vašich dobrovolných darů. Pokud ho chcete podpořit, ať už ze sympatie či vlastního užitku, můžete tak učinit online `na donio.cz <https://donio.cz/brzdime-cz>`__.
 
    Chcete-li nás podpořit jiným způsobem, kontaktujte nás.
 
@@ -26,7 +28,7 @@ Pokud byste se rádi všímavosti věnovali víc, podívejte se na
 * naši nabídku kurzů mindfulness na `LessStress.cz <https://lessstress.cz>`__ — obvykle 8-týdenní kurzy (denní cvičení podle nahrávek, týdenní setkání skupiny).
 * intenzivní kurzy meditace všímavosti (*vipassanā*), které vedeme pod hlavičkou `vipassana.sk <https://vipassana.sk/sk/>`__.
 
-Napište nám, pokud máte zájem o kurz či seminář ve Vaší organizaci (firmě, škole, spolku).
+Napište nám, pokud máte zájem o kurz či seminář ve Vaší organizaci (firmě, škole, instituci, spolku, klubu, …).
 
 
 Lektoři 👥

@@ -76,15 +76,13 @@ Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nah
 .. admonition:: 🗓 úterky v 17:00-18:30 |brbr| `🔗 meet.lessstress.cz/brzdime <https://meet.lessstress.cz/brzdime>`__
    :class: info
 
-   * Na počítači se můžete připojit přes prohlížeč.
-   * Na telefonu doporučujeme instalaci aplikace Jitsi Meet (z Play Store či AppStore), připojení bez aplikace přes prohlížeč je však také možné.
-
-
+   * Na počítači se připojte přes prohlížeč, jen rozkliknutím odkazu.
+   * Na telefonu doporučujeme instalaci aplikace Jitsi Meet (`Play Store <https://play.google.com/store/apps/details?id=org.jitsi.meet>`__, `AppStore <https://apps.apple.com/us/app/jitsi-meet/id1165103905>`__), připojení bez aplikace přes prohlížeč je však možné i na telefonu.
 
 
 -  **Není** třeba se předem **hlásit či registrovat**.
 -  Za účast se **neplatí**.
--  Pokud můžete a chcete naši činnost **podpořit**, abychom v ni mohli pokračovat, využijte možnost daru přes **\__[donio.cz?]** nebo nás kontaktujte mailem.
+-  Můžete nás však **podpořit** `darem před Donio.cz (či jinak) <link://slug/about#dary>`__.
 -  Můžete se účastnit pravidelně, ale nemusíte.
 -  Ze setkání se nepořizují žádné záznamy (audio ani video); ani vy si nic nenahrávejte.
 -  Při připojení můžete uvést pouze své křestní jméno či přezdívku; ostatní ho uvidí u vašeho obrazu z kamery.
@@ -92,6 +90,7 @@ Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nah
 -  Na setkání můžete hovořit, ale můžete i jen poslouchat.
 -  Prosíme o vypínání mikrofonu, pokud právě nehovoříte.
 -  Připojte se krátkou chvíli před začátkem, abychom mohli začít i skončit včas.
+
 
 Materiály
 =========
