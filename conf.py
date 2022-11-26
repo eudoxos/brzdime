@@ -19,7 +19,7 @@ BLOG_AUTHOR = "lessstress.cz"  # (translatable)
 BLOG_TITLE = "Brzdíme.cz"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://brzdime.lessstress.cz/"
+SITE_URL = "https://brzdime.cz/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://lessstress.cz/"

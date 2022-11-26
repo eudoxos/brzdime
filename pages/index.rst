@@ -10,7 +10,7 @@
 .. admonition:: 🚧 Pozor, staveniště!
    :class: warning
 
-   Zatím se nic neděje: doména brzdime.cz nefunguje, pravidelná setkání neprobíhají.
+   Zatím se nic neděje: pravidelná setkání neprobíhají.
 
 .. admonition:: 💡 Jste zde poprvé?
    :class: tip
@@ -95,7 +95,7 @@ Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nah
 Materiály
 =========
 
-Pokud jste byli na setkání poprvé, přečtěte si `startovací balíček <https://lessstress.cz//brzdime/start/>`__!
+Pokud jste byli na setkání poprvé, přečtěte si `startovací balíček <link://slug/start>`__!
 
 Ke každému setkání si můžete stáhnout pracovní listy k tématu (2–4 strany A4) — obsahují shrnutí tématu setkání, doporučená cvičení, krátké texty a tabulku pro záznam cvičení — odkazy na PDF jsou v tabulce níže. `Zde si stáhněte celý komplet v PDF. <doc/brzdime-sezeni-vsechno.pdf>`__
 
