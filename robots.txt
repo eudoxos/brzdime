@@ -1,4 +1,4 @@
-Sitemap: https://brzdime.lessstress.cz/sitemapindex.xml
+Sitemap: https://brzdime.cz/sitemapindex.xml
 
 User-Agent: *
-Host: brzdime.lessstress.cz
+Host: brzdime.cz
