@@ -34,3 +34,4 @@ Program má 3 součástky. Můžete ochutnat kterékoliv; plný prospěch budete
 
 3. `Nahrávky cvičení <link://slug/index#cviceni>`__ jsou vám na webu k dispozici kdykoliv si na cvičení uděláte čas.
 
+Detailnější informace, které si můžete přečíst až *po* první účasti na online skupině, najdete ve `startovacím balíčku <link://slug/start>`__.

@@ -142,7 +142,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/intro/","Úvod"),
         ("/start/","Start"),
-        ("/mbrp/","Program MBRP"),
+        ("/mbrp/","MBRP"),
         ("/about/","O projektu"),
         # ("/archive.html", "Archiv"),
         #("/categories/", "Štítky"),

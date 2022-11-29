@@ -1,9 +1,15 @@
 .. slug: start
 .. title: Startovací balíček
 
+
 .. class:: info info-primary float-md-right
 
 .. contents::
+
+
+
+Následující text je určený pro ty, kdo s programem už začínají. Obecnější úvod o indikaci programu a jeho celkové koncepci najdete `na stránce Úvod <link://slug/intro>`__.
+
 
 Program MBRP
 ============
@@ -51,8 +57,8 @@ Výzkum okolo všímavosti a MBRP
 
 Výzkum ukazuje, že učení se a cvičení všímavosti:
 
--  ⇩ Snižuje riziko relapsu do užívání alkoholu/drog.
--  ⇩ Snižuje nutkání/bažení po užívání alkoholu/drog.
+-  ⇩ Snižuje riziko relapsu (= upadnutí do opakování návyku).
+-  ⇩ Snižuje nutkání/bažení po návyku.
 -  ⇧ Zlepšuje emoční spokojenost.
 
 Výsledky výzkumu MBRP jsou podrobněji popsané v článcích odkázaných na
@@ -78,22 +84,11 @@ takto:
 
 -  Honza:
 
-      Přibližně 6 dní v týdnu poslouchám 5–10 minut nahraných cvičení.
-      Cvičím před snídaní. V sedě na židli. Cvičit každý den ve stejný
-      čas mi pomáhá na cvičení nezapomenout. Otevřu si `brzdime.cz <link://slug/index>`__ na
-      telefonu a tam si nahrávky pouštím. Cvičení všímavosti je součást
-      mého života, protože mi pomáhá více si uvědomovat, co se děje, a
-      díky tomu se mohu lépe udržet na cestě zotavení.
+     Přibližně 6 dní v týdnu poslouchám 5–10 minut nahraných cvičení. Cvičím před snídaní. V sedě na židli. Cvičit každý den ve stejný čas mi pomáhá na cvičení nezapomenout. Otevřu si `brzdime.cz <link://slug/index>`__ na telefonu a tam si nahrávky pouštím. Cvičení všímavosti je součást  mého života, protože mi pomáhá více si uvědomovat, co se děje, a díky tomu se mohu lépe udržet na cestě zotavení.
 
 -  Alena:
 
-      Poslouchám 10- či 15-minutová cvičení všímavosti asi tak 5 dní v
-      týdnu. Cvičím večer před spaním, když už jsem po sprše v pyžamu.
-      Sedím na posteli a polštáři si vypodložím záda. Nahrávky si
-      pouštím na MP3 přehrávači, který jsem si půjčila od svého
-      terapeuta. Mám sluchátka, aby mě méně rušil hluk zvenku. Když se
-      držím pravidelného cvičení, cítím se více ukotvená a lépe zvládám
-      stres, který se v mém životě objeví.
+      Poslouchám 10- či 15-minutová cvičení všímavosti asi tak 5 dní v týdnu. Cvičím večer před spaním, když už jsem po sprše v pyžamu. Sedím na posteli a polštáři si vypodložím záda. Nahrávky si pouštím na MP3 přehrávači, který jsem si půjčila od svého terapeuta. Mám sluchátka, aby mě méně rušil hluk zvenku. Když se držím pravidelného cvičení, cítím se více ukotvená a lépe zvládám stres, který se v mém životě objeví.
 
 Cvičení s krátkými popisky najdete na `hlavní stránce <link://slug/index#cviceni>`__.
 
@@ -102,21 +97,16 @@ Neformální
 
 Neformální cvičení využijete „za pochodu“, kdykoliv během všedního dne.
 
-1. ⏸ **Okamžiky:** náhodně se během dne *zastavte* a
-
+⏸ *Okamžiky:* náhodně se během dne *zastavte* a
    -  zpomalte se několika vědomými dechy;
    -  dejte si 1 minutu, abyste se na sebe napojili (*„Jak se právě teď
       cítím?“*).
 
-2. 🧠 **Obtíže:** když se objeví náročná situace, např. hádka, těžké
-   pocity, nutkání k užití…:
-
+🧠 *Obtíže:* když se objeví náročná situace, např. hádka, těžké pocity, nutkání k užití…:
    -  projděte situací všímavě, méně reaktivně;
    -  použijte BRZDu.
 
-3. 🍏 **Činnosti:** při běžných činnostech, např. jedení, domácí práce,
-   sprchování se, čištění zubů, chůze někam…:
-
+🍏 *Činnosti:* při běžných činnostech, např. jedení, domácí práce, sprchování se, čištění zubů, chůze někam…:
    -  vneste do přítomného okamžiku zvídavou pozornost;
    -  napojte se na pět smyslů (zrak, sluch, chuť, čich, hmat).
 
@@ -133,47 +123,29 @@ tady“ k ocenění odehrávající se přítomnosti. Může vám pomoci k vysko
 z reaktivního autopilota a být si víc vědomý v tom, jak v nastalé
 situaci budete jednat.
 
--  **B**: **Brzdi!** Šlápněte na brzdu a zastavte se, abyste toto
-   cvičení mohli udělat. Je to první krok, kterým vystoupíte z
-   autopilota.
--  **R**: **Roz-vhled!** Rozhlédněte se uvnitř sebe, ve své svou
-   momentální zkušenosti, a rozeberte ji na části: tělesné počitky,
-   pocity, myšlenky. Zkuste se na ně podívat s určitou zvědavostí a bez
+B: Brzdi!
+   Šlápněte na brzdu a zastavte se, abyste toto cvičení mohli udělat. Je to první krok, kterým vystoupíte z autopilota.
+R: Roz-vhled!
+   Rozhlédněte se uvnitř sebe, ve své svou momentální zkušenosti, a rozeberte ji na části: tělesné počitky, pocity, myšlenky. Zkuste se na ně podívat s určitou zvědavostí a bez
    odsuzování.
--  **Z**: **Zakotvi se!** Udělejte několik pomalých nádechů a výdechů a
-   zakotvěte přitom svou pozornost v tělesných počitcích, které dýchání
-   doprovázejí.
--  **D**: **Doširoka se otevři!** Rozšiřte pozornost od dechu na celé
-   tělo a pak i na celou situaci, ve které se nacházíte.
--  **A**: **Akce!** Jednejte v nastalé situaci s vnitřní orientací,
-   nenechte jen proběhnout automatickou reakci. Buďte aktivní, ne
-   reaktivní. Uvědomte si, že ve svém jednání máte na výběr. Zamyslete
-   se nad tím, co v tuto chvíli potřebujete a jak byste se o sebe
-   nejlépe postarali.
+Z: Zakotvi se!
+   Udělejte několik pomalých nádechů a výdechů a zakotvěte přitom svou pozornost v tělesných počitcích, které dýchání doprovázejí.
+D: Doširoka se otevři!
+   Rozšiřte pozornost od dechu na celé tělo a pak i na celou situaci, ve které se nacházíte.
+A: Akce!
+   Jednejte v nastalé situaci s vnitřní orientací, nenechte jen proběhnout automatickou reakci. Buďte aktivní, ne reaktivní. Uvědomte si, že ve svém jednání máte na výběr. Zamyslete se nad tím, co v tuto chvíli potřebujete a jak byste se o sebe nejlépe postarali.
 
 Proč u toho vydržet
 ===================
 
-🧠 **Naše mozky doslova rostou a vytvářejí nová spojení po celý život**,
-včetně dospělosti. Nenarodíme se jednoduše s mozkem, který nám už pak na
-celý život zůstane. Náš mozek se neustále proměňuje podle zkušeností,
-které prožíváme, a informací a dovedností, které se učíme a cvičíme.
-Kdykoliv se učíme či cvičíme něco nového, např. nějakou dovednost,
-vytvářejí se v mozku nové spoje. S dalším a dalším cvičením té
-dovednosti se tyto spoje dále zesilují. *Neuroplasticita* (dosl. nervová
-tvárnost) je odborné slovo, kterým se tyto změny v mozku popisují.
+🧠 Naše mozky doslova rostou a vytvářejí nová spojení po celý život,
+   včetně dospělosti. Nenarodíme se jednoduše s mozkem, který nám už pak na celý život zůstane. Náš mozek se neustále proměňuje podle zkušeností, které prožíváme, a informací a dovedností, které se učíme a cvičíme. Kdykoliv se učíme či cvičíme něco nového, např. nějakou dovednost, vytvářejí se v mozku nové spoje. S dalším a dalším cvičením té dovednosti se tyto spoje dále zesilují. *Neuroplasticita* (dosl. nervová tvárnost) je odborné slovo, kterým se tyto změny v mozku popisují.
 
-🏋 **Váš mozek je jako sval, který je možné posílit úsilím a cvičením.**
-Podobně jako fyzická cvičení posilují tělo, cvičení mozku mentálními
-cvičeními — jako je např. všímavost — posiluje váš mozek. Výzkum
-ukazuje, že pravidelné cvičení všímavosti mozek pozorovatelně mění a
-posiluje oblasti mozku, které se podílejí na zvládání stresu a emocí.
-Tyto studie též ukázaly, že hladina stresu se pravidelným cvičením
-všímavosti snižuje.
+🏋 Váš mozek je jako sval, který je možné posílit úsilím a cvičením.
+   Podobně jako fyzická cvičení posilují tělo, cvičení mozku mentálními cvičeními — jako je např. všímavost — posiluje váš mozek. Výzkum ukazuje, že pravidelné cvičení všímavosti mozek pozorovatelně mění a posiluje oblasti mozku, které se podílejí na zvládání stresu a emocí. Tyto studie též ukázaly, že hladina stresu se pravidelným cvičením všímavosti snižuje.
 
-💪 **Zapamatujte si:** máte schopnost změnit svůj mozek. Všímavost je
-vědou podepřený nástroj, který můžete používat ke změně mozku a zvýšení
-schopnosti zvládat náročné situace.
+💪 Zapamatujte si:
+   máte schopnost změnit svůj mozek. Všímavost je vědou podepřený nástroj, který můžete používat ke změně mozku a zvýšení schopnosti zvládat náročné situace.
 
 Zvládání obvyklých potíží při cvičení
 =====================================
