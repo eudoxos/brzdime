@@ -36,29 +36,29 @@ Cvičení
 =======
 
 
-{{% guided title="1. BRZDA" length="05:28" src="/audio/brzdime.cz-01-brzda.mp3" %}} Pět kroků zkratky: Brzdi, Roz-vhled, Zakotvi se, Doširoka se otevři, Akce. Cvičení, které je vždy po ruce a lze ho udělat i během několika vteřin v náročné situaci. {{% /guided %}}
+{{% guided title="1. BRZDA 🛑" length="05:28" src="/audio/brzdime.cz-01-brzda.mp3" %}} Pět kroků zkratky: Brzdi, Roz-vhled, Zakotvi se, Doširoka se otevři, Akce. Cvičení, které je vždy po ruce a lze ho udělat i během několika vteřin v náročné situaci. {{% /guided %}}
 
-{{% guided title="2. Napojení na sebe" length="13:56" src="/audio/brzdime.cz-02-napojeni.mp3" %}} Vnímání toho, co se děje v mém těle a mysli, následované zaměřením pozornosti na dech. Cvičení zařazené na začátku každého setkání. Je možné ho často opakovat.{{% /guided %}}
+{{% guided title="2. Napojení na sebe 🔌" length="13:56" src="/audio/brzdime.cz-02-napojeni.mp3" %}} Vnímání toho, co se děje v mém těle a mysli, následované zaměřením pozornosti na dech. Cvičení zařazené na začátku každého setkání. Je možné ho často opakovat.{{% /guided %}}
 
-{{% guided title="3. Jízda na vlně nutkání" length="06:37" src="/audio/brzdime.cz-03-vlna.mp3" %}} Všímavě se držet na vlně nutkání či bažení, jak v čase sama zesiluje a zase slábne. {{% /guided %}}
+{{% guided title="3. Jízda na vlně nutkání 🌊" length="06:37" src="/audio/brzdime.cz-03-vlna.mp3" %}} Všímavě se držet na vlně nutkání či bažení, jak v čase sama zesiluje a zase slábne. {{% /guided %}}
 
-{{% guided title="4. Meditace laskavosti" length="16:59" src="/audio/brzdime.cz-04-laskavost.mp3" %}}Posílání myšlenek a přání laskavosti a soucitu sobě a ostatním. {{% /guided %}}
+{{% guided title="4. Meditace laskavosti 💙" length="16:59" src="/audio/brzdime.cz-04-laskavost.mp3" %}}Posílání myšlenek a přání laskavosti a soucitu sobě a ostatním. {{% /guided %}}
 
-{{% guided title="5. Bodyscan" length="09:58" src="/audio/brzdime.cz-05-bodyscan.mp3" %}} Procházení těla pozorností, přinášení zvídavosti k tělesným vjemům, i těm nepříjemným. {{% /guided %}}
+{{% guided title="5. Bodyscan 🧍‍♀️" length="09:58" src="/audio/brzdime.cz-05-bodyscan.mp3" %}} Procházení těla pozorností, přinášení zvídavosti k tělesným vjemům, i těm nepříjemným. {{% /guided %}}
 
-{{% guided title="6. Meditace s dechem" length="11:42" src="/audio/brzdime.cz-06-dech.mp3" %}} Dech jako kotva pozornosti, uvědomování si toulání mysli a učení se vracení se ze zamotaných myšlenek. {{% /guided %}}
+{{% guided title="6. Meditace s dechem 💨" length="11:42" src="/audio/brzdime.cz-06-dech.mp3" %}} Dech jako kotva pozornosti, uvědomování si toulání mysli a učení se vracení se ze zamotaných myšlenek. {{% /guided %}}
 
-{{% guided title="7. Hodnoty" length="11:58" src="/audio/brzdime.cz-07-hodnoty.mp3" %}} Reflexe vlastních hodnot, podle kterých chci ve svém životě se rozhodovat a jednat. {{% /guided %}}
+{{% guided title="7. Hodnoty 🛡️" length="11:58" src="/audio/brzdime.cz-07-hodnoty.mp3" %}} Reflexe vlastních hodnot, podle kterých chci ve svém životě se rozhodovat a jednat. {{% /guided %}}
 
-{{% guided title="8. Meditace o hoře" length="11:05" src="/audio/brzdime.cz-08-hora.mp3" %}} Vizualizace k rozvinutí pocitu síly a stability. {{% /guided %}}
+{{% guided title="8. Meditace o hoře 🏔️" length="11:05" src="/audio/brzdime.cz-08-hora.mp3" %}} Vizualizace k rozvinutí pocitu síly a stability. {{% /guided %}}
 
-{{% guided title="9. Všímavé jedení" length="08:53" src="/audio/brzdime.cz-09-jedeni.mp3" %}} Zakotvení v bezprostředních vjemech při jídle. {{% /guided %}}
+{{% guided title="9. Všímavé jedení 🍎" length="08:53" src="/audio/brzdime.cz-09-jedeni.mp3" %}} Zakotvení v bezprostředních vjemech při jídle. {{% /guided %}}
 
-{{% guided title="10. Všímavý pohyb" length="15:15" src="/audio/brzdime.cz-10-pohyb.mp3" %}} Pěstování zvídavé pozornosti k tělesným vjemům při jemných pohybech a protahování. {{% /guided %}}
+{{% guided title="10. Všímavý pohyb 🤸" length="15:15" src="/audio/brzdime.cz-10-pohyb.mp3" %}} Pěstování zvídavé pozornosti k tělesným vjemům při jemných pohybech a protahování. {{% /guided %}}
 
-{{% guided title="11. Všímavá chůze" length="13:58" src="/audio/brzdime.cz-11-chuze.mp3" %}} Zvídavá pozornost k smyslovým vjemům při chůzi. {{% /guided %}}
+{{% guided title="11. Všímavá chůze 👣" length="13:58" src="/audio/brzdime.cz-11-chuze.mp3" %}} Zvídavá pozornost k smyslovým vjemům při chůzi. {{% /guided %}}
 
-{{% guided title="12. Pět smyslů" length="10:35" src="/audio/brzdime.cz-12-smysly.mp3"  %}} Postupné prozkoumání, co vnímáme všemi pěti smysly. {{% /guided %}}
+{{% guided title="12. Pět smyslů 👀" length="10:35" src="/audio/brzdime.cz-12-smysly.mp3"  %}} Postupné prozkoumání, co vnímáme všemi pěti smysly. {{% /guided %}}
 
 Nahrávky byly přeložené z `practiceMBRP.com <https://practicembrp.com>`__.
 
