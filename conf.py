@@ -140,7 +140,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/start/","Startovací balíček"),
+        ("/intro/","Úvod"),
+        ("/start/","Start"),
         ("/mbrp/","Program MBRP"),
         ("/about/","O projektu"),
         # ("/archive.html", "Archiv"),

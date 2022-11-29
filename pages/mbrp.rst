@@ -2,7 +2,7 @@
 .. slug: mbrp
 
 .. contents::
-   :class: float-right
+   :class: float-md-right
 
 Historie
 ========

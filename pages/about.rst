@@ -2,6 +2,11 @@
 .. slug: about
 
 
+.. class:: info info-primary float-md-right
+
+.. contents::
+
+
 Projekt nekomerčně poskytuje prověřené nástroje tréninku pozornosti v podobě materiálů (pracovní listy, nahrávky) a pravidelné podpůrné online skupiny. Možnost bezplatné i nepravidelné účasti má zmenšit případnou finanční a časovou bariéru.
 
 Všímavost / mindfulness znamená průběžnou orientovanost ve vlastním prožívání (v těle, pocitech, mysli). Tato dovednost se dá překvapivě dobře samostatně cvičit a je klíčová pro jakoukoliv podobu vědomé autoregulace.
