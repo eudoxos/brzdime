@@ -900,6 +900,13 @@ html[dir="rtl"] body {
 /* GH pages builds with different engine (docutils 0.17 vs. 1.19: force 0.17 in requriements.txt)? needs this: */
 nav#contents { margin: 0.5em 1em; } 
 
+.topic.contents {
+	margin: 1em;
+	padding: 1em;
+	border: 1px solid #dc3545;
+	border-radius: .25rem;
+	} 
+
 blockquote p { font-size: 1.0rem; font-style: italic; }
 
 /* no indent for admonitions, they will look like cards then */
