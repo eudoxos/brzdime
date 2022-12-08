@@ -26,7 +26,7 @@
 Odpovědnost
 ===========
 
--  `Program „Prevence Relapsu pomocí všímavosti s průběžnou účastí“ (MBRP-RA) <link://slug/mbrp>`__ je **koncipovaný jako podpůrný a nenahrazuje odbornou péči** (toxikologickou, adiktologickou, psychiatrickou, …).
+-  `Program „Prevence Relapsu pomocí všímavosti s průběžnou účastí“ (MBRP-RA) <link://slug/mbrp>`__ je **koncipovaný jako podpůrný a nenahrazuje odbornou péči** (toxikologickou, adiktologickou, psychiatrickou, psychoterapeutickou, …).
 -  *Pokud akutně odbornou péči potřebujete, vyhledejte ji — v tuto chvíli zde nejste správně!*
 -  Kombinace MBRP-RA s odbornou péčí je možná; doporučujeme však o účasti v MBRP-RA informovat.
 -  Online setkávání i materiály poskytujeme s nadějí, že z nich budete mít prospěch. Nepřebíráme však odpovědnost za následky — používáte je na vlastní riziko.
