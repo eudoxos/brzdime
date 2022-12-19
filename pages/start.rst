@@ -18,12 +18,12 @@ Program MBRP (*Mindfulness-Based Relapse Prevention*) je doléčovací a
 preventivní program pro závislosti — v širokém smyslu (opakované chování
 s nepříznivými důsledky), který zahrnuje
 
--  látkové závislosti (alkohol, drogy, tabák),
+-  látkové závislosti (alkohol, drogy, tabák, léky),
 -  závislostní chování:
 
    -  vnější: jídlo, práce, sport, sex, pornografie, hazardní hry,
-      sebepoškozování, …;
-   -  vnitřní: sebekritika, katastrofické scénáře, …
+      sebepoškozování, nakupování, …;
+   -  vnitřní: častá sebekritika či devalvace ostatních, útočnost, úzkostnost, vyhýbavost, submisivita, …
 
 MBRP je strukturovaný trénink dovednosti být všímavý — tedy orientovaný
 ve svém současném prožívání jak se děje — pomocí různých vedených

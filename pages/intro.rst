@@ -12,8 +12,8 @@ Poskytnuté materiály cílí na škodlivé návyky (závislosti v širokém smy
 Těmito návyky může být např.:
 
 * **vnitřní reaktivita:** častá sebekritika či devalvace ostatních, útočnost, úzkostnost, vyhýbavost, submisivita, …;
-* **závislostní chování:** sociální sítě, videohry, jídlo, práce, sex, pornografie, sport, sebepoškozování, …;
-* **látkové závislosti:** nikotin, alkohol, drogy, ….
+* **závislostní chování:** sociální sítě, videohry, jídlo, práce, sex, pornografie, sport, sebepoškozování, nakupování, …;
+* **látkové závislosti:** nikotin, alkohol, drogy, léky, ….
 
 Široký záběr programu plyne ze zaměření na základní reaktivitu (spouštěče, nepohoda, nutkání k úlevě, bažení). Pomocí cvičení pozornost je možné se naučit neztrácet orientaci ve vlastním prožívání ani v náročné situaci; to pak snižuje pravděpodobnost opětovného upadnutí do návyku (relapsu). Proto se program jmenuje MBRP čili „Prevence relapsu všívavostí“ (*Mindfulness-Based Relapse Prevention*). `Detaily o MBRP jsou zde <link://slug/mbrp>`__.
 

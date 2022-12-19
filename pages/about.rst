@@ -52,3 +52,9 @@ Materiály
 Zde publikované materiály jsou volně dostupné pro nekomerční použití, se zachováním informace o jejich původu.
 
 Jste-li profesionál (terapeut, kouč, pedagog, …) a materiály při práci využíváte či je klientům doporučujete, povzbudí nás krátká zpráva o tom.
+
+
+Poděkování
+============
+
+Děkujeme všem našim učitelům (učitelům meditace vipassanā, tvůrcům programů MBRP a MBRP-RA — Sarah Bowen, Corey Roos, … — i našim učitelům MBRP — Devin Ashwood, Nicky Mouat) i všem, které jsme mohli doprovázet na cestě rozvíjení všímavosti a učit se od nich.
