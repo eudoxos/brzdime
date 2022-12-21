@@ -7,21 +7,20 @@
    :class: float-md-right
 
 
-.. admonition:: 🚧 Pozor, staveniště!
-   :class: warning
-
-   Zatím se nic neděje. **Pravidelná setkání neprobíhají.**
-
 .. admonition:: 👀 Jsem tu poprvé. Co tu najdu? Je to vůbec pro mě?
    :class: tip
 
    To vše se můžete `dozvědět v úvodu <link://slug/intro>`__.
 
 
-.. admonition:: 📢 Aktuality
-   :class: info
+.. :class: info
 
-   Pravidelná setkání probíhají normálně, podle `kalendáře <#kalendar-setkani>`_.
+.. admonition:: 📢 Aktuality
+   :class: warning
+
+   🚧 Jste na staveništi 🚧
+
+   **Pravidelná setkání zatím neprobíhají.** Začneme v únoru 2023, podle `kalendáře <#kalendar-setkani>`_.
 
 Odpovědnost
 ===========
