@@ -32,7 +32,7 @@ To vše se můžete dozvědět v úvodu.
 📢 Aktuality
 🚧 Jste na staven">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2022-12-21T15:46:51+01:00">
+<meta property="article:published_time" content="2022-12-29T13:49:24+01:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Přeskočit na hlavní obsah</a>
@@ -306,10 +306,10 @@ bg-dark
 </div>
 <p>Nahrávky byly přeložené z <a class="reference external" href="https://practicembrp.com">practiceMBRP.com</a>.</p>
 </section><section id="tydenni-online-setkani"><h2><a class="toc-backref" href="#id3">Týdenní online setkání</a><a href="#tydenni-online-setkani" class="headerlink" title="Permalink to this heading">¶</a></h2>
-<p>Setkání skupiny probíhají online, vždy je vede <a class="reference external" href="https://lessstress.cz/cs/teachers">někdo z nás</a>.</p>
+<p>Setkání skupiny probíhají online, vždy je vede <a class="reference external" href="https://lessstress.cz/teachers">někdo z nás</a>.</p>
 <p>Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nahoře — podívejte se předem.</p>
 <div class="admonition info">
-<p class="admonition-title">🗓 úterky v 17:00-18:30 <br><br><a class="reference external" href="https://meet.lessstress.cz/brzdime">🔗 meet.lessstress.cz/brzdime</a></p>
+<p class="admonition-title">🗓 čtvrtky v 17:00-18:30 <br><br><a class="reference external" href="https://meet.lessstress.cz/brzdime">meet.lessstress.cz/brzdime</a></p>
 <ul class="simple">
 <li><p>Na počítači se připojte přes prohlížeč, jen rozkliknutím odkazu.</p></li>
 <li><p>Na telefonu doporučujeme instalaci aplikace Jitsi Meet (<a class="reference external" href="https://play.google.com/store/apps/details?id=org.jitsi.meet">Play Store</a>, <a class="reference external" href="https://apps.apple.com/us/app/jitsi-meet/id1165103905">AppStore</a>), připojení bez aplikace přes prohlížeč je však možné i na telefonu.</p></li>
@@ -318,7 +318,7 @@ bg-dark
 <ul class="simple">
 <li><p><strong>Není</strong> třeba se předem <strong>hlásit či registrovat</strong>.</p></li>
 <li><p>Za účast se <strong>neplatí</strong>.</p></li>
-<li><p>Můžete nás však <strong>podpořit</strong> <a class="reference external" href="about/#dary">darem před Donio.cz (či jinak)</a>.</p></li>
+<li><p>Můžete nás však <strong>podpořit</strong> <a class="reference external" href="about/#dary">darem přes Donio.cz (či jinak)</a>.</p></li>
 <li><p>Můžete se účastnit pravidelně, ale nemusíte.</p></li>
 <li><p>Ze setkání se nepořizují žádné záznamy (audio ani video); ani vy si nic nenahrávejte.</p></li>
 <li><p>Při připojení můžete uvést pouze své křestní jméno či přezdívku; ostatní ho uvidí u vašeho obrazu z kamery.</p></li>
@@ -435,14 +435,11 @@ bg-dark
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script><script>
+/* pause other player on the page when play is pressed */
 document.addEventListener('play', function(e){
     var audios = document.getElementsByTagName('audio');
-    for(var i = 0, len = audios.length; i < len;i++){
-        if(audios[i] != e.target){
-            audios[i].pause();
-        }
-    }
+    for(var i = 0, len = audios.length; i < len;i++){ if(audios[i] != e.target){ audios[i].pause(); } }
 }, true);
-</script>
+</script><link rel="stylesheet" href="assets/font-awesome-5.15.4/css/all.min.css">
 </body>
 </html>

@@ -25,7 +25,7 @@ Poděkování
 
 Projekt nekomerčně poskytuje prověřené nástroje tréninku pozornosti v podobě materiálů (pracovní listy, nahrávky) a pravidelné podpůrné online ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2022-12-21T15:46:51+01:00">
+<meta property="article:published_time" content="2022-12-29T13:49:24+01:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Přeskočit na hlavní obsah</a>
@@ -104,8 +104,8 @@ bg-dark
 </section><section id="lektori"><h2><a class="toc-backref" href="#id3">Lektoři 👥</a><a href="#lektori" class="headerlink" title="Permalink to this heading">¶</a></h2>
 <p>Všichni lektoři podpůrné online skupiny jsou kvalifikovaní k vedení programu <span class="caps">MBRP</span>.</p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://lessstress.cz/cs/teachers">Václav Šmilauer</a>, iniciátor projektu, autor překladu materiálů a nahrávek</p></li>
-<li><p><a class="reference external" href="https://lessstress.cz/cs/teachers">Katarína Bírešová</a></p></li>
+<li><p><a class="reference external" href="https://lessstress.cz/teachers#vaclav">Václav Šmilauer</a>, iniciátor projektu, autor překladu materiálů a nahrávek</p></li>
+<li><p><a class="reference external" href="https://lessstress.cz/teachers#katarina">Katarína Bírešová</a></p></li>
 <li><p>případně další kolegové 😊</p></li>
 </ul></section><section id="materialy"><h2><a class="toc-backref" href="#id4">Materiály</a><a href="#materialy" class="headerlink" title="Permalink to this heading">¶</a></h2>
 <p>Zde publikované materiály jsou volně dostupné pro nekomerční použití, se zachováním informace o jejich původu.</p>
@@ -127,14 +127,11 @@ bg-dark
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script><script>
+/* pause other player on the page when play is pressed */
 document.addEventListener('play', function(e){
     var audios = document.getElementsByTagName('audio');
-    for(var i = 0, len = audios.length; i < len;i++){
-        if(audios[i] != e.target){
-            audios[i].pause();
-        }
-    }
+    for(var i = 0, len = audios.length; i < len;i++){ if(audios[i] != e.target){ audios[i].pause(); } }
 }, true);
-</script>
+</script><link rel="stylesheet" href="../assets/font-awesome-5.15.4/css/all.min.css">
 </body>
 </html>
