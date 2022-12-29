@@ -69,11 +69,11 @@ Týdenní online setkání
    <br><br>
 
 
-Setkání skupiny probíhají online, vždy je vede `někdo z nás <https://lessstress.cz/cs/teachers>`__.
+Setkání skupiny probíhají online, vždy je vede `někdo z nás <https://lessstress.cz/teachers>`__.
 
 Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nahoře — podívejte se předem.
 
-.. admonition:: 🗓 úterky v 17:00-18:30 |brbr| `🔗 meet.lessstress.cz/brzdime <https://meet.lessstress.cz/brzdime>`__
+.. admonition:: 🗓 čtvrtky v 17:00-18:30 |brbr| `meet.lessstress.cz/brzdime <https://meet.lessstress.cz/brzdime>`__
    :class: info
 
    * Na počítači se připojte přes prohlížeč, jen rozkliknutím odkazu.
@@ -82,7 +82,7 @@ Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nah
 
 -  **Není** třeba se předem **hlásit či registrovat**.
 -  Za účast se **neplatí**.
--  Můžete nás však **podpořit** `darem před Donio.cz (či jinak) <link://slug/about#dary>`__.
+-  Můžete nás však **podpořit** `darem přes Donio.cz (či jinak) <link://slug/about#dary>`__.
 -  Můžete se účastnit pravidelně, ale nemusíte.
 -  Ze setkání se nepořizují žádné záznamy (audio ani video); ani vy si nic nenahrávejte.
 -  Při připojení můžete uvést pouze své křestní jméno či přezdívku; ostatní ho uvidí u vašeho obrazu z kamery.

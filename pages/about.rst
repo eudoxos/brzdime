@@ -41,8 +41,8 @@ Lektoři 👥
 
 Všichni lektoři podpůrné online skupiny jsou kvalifikovaní k vedení programu MBRP. 
 
-* `Václav Šmilauer <https://lessstress.cz/cs/teachers>`__, iniciátor projektu, autor překladu materiálů a nahrávek
-* `Katarína Bírešová <https://lessstress.cz/cs/teachers>`__
+* `Václav Šmilauer <https://lessstress.cz/teachers#vaclav>`__, iniciátor projektu, autor překladu materiálů a nahrávek
+* `Katarína Bírešová <https://lessstress.cz/teachers#katarina>`__
 * případně další kolegové 😊
 
 

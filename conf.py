@@ -1050,7 +1050,7 @@ COMMENT_SYSTEM_ID = ""
 # WARNING: if a page would conflict with the index file (usually
 #          caused by setting slug to `index`), the PAGE_INDEX
 #          will not be generated for that directory.
-# PAGE_INDEX = False
+PAGE_INDEX = False
 # Enable comments on pages (i.e. not posts)?
 # COMMENTS_IN_PAGES = False
 # Enable comments on picture gallery pages?
@@ -1290,16 +1290,13 @@ USE_CDN = False
 # pause other players when one starts playing, from https://stackoverflow.com/a/19792168
 BODY_END = '''
 <script>
+/* pause other player on the page when play is pressed */
 document.addEventListener('play', function(e){
     var audios = document.getElementsByTagName('audio');
-    for(var i = 0, len = audios.length; i < len;i++){
-        if(audios[i] != e.target){
-            audios[i].pause();
-        }
-    }
+    for(var i = 0, len = audios.length; i < len;i++){ if(audios[i] != e.target){ audios[i].pause(); } }
 }, true);
 </script>
-
+<link rel="stylesheet" href="/assets/font-awesome-5.15.4/css/all.min.css">
 '''
 
 # The possibility to extract metadata from the filename by using a
