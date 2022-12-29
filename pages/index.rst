@@ -104,7 +104,7 @@ Ke každému setkání si můžete stáhnout pracovní listy k tématu (2–4 st
 
 Je-li pro vás těžké si pracovní listy vytisknout, napište nám mail — rádi Vám pošleme celý vytištěný komplet poštou, na naše náklady.
 
-.. _kalendář:
+.. _kalendar:
 
 Kalendář setkání
 ================
