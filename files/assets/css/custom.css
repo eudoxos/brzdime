@@ -3,6 +3,10 @@
 /* GH pages builds with different engine (docutils 0.17 vs. 1.19: force 0.17 in requriements.txt)? needs this: */
 nav#contents { margin: 0.5em 1em; } 
 
+ul {
+	padding-left: 1.5em;
+}
+
 .topic.contents {
 	margin: 1em;
 	padding: 1em;

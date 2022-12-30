@@ -19,8 +19,7 @@ Dary
 
 .. raw:: html
 
-   <div class="card-deck py-3 px-0">
-   <div class="card" style="background-color: #fff8ee;">
+   <div class="card my-4" style="background-color: #fff8ee;">
      <div class="card-body">
        <h2 class="card-title">Sbírka na <img src="/assets/img/donio-logo.beecb268.svg" style="width: 5em;" class="pl-2"></h2>
        <p class="card-text">Tento projekt funguje díky vašim darům. Můžete na něj přispět přes portál <a href="https://donio.cz">donio.cz</a>, který nám dar předá v plné výši.</p>
@@ -30,7 +29,6 @@ Dary
      <div class="card-footer">
        <p class="card-text text-muted">Chtete-li nás podpořit jiným způsobem, kontaktujte nás.</p>
      </div>
-   </div>
    </div>
 
 
