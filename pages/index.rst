@@ -7,10 +7,12 @@
    :class: float-md-right
 
 
-.. admonition:: 👀 Jsem tu poprvé. Co tu najdu? Je to vůbec pro mě?
+.. admonition:: 👀 Jsem zde poprvé.
    :class: tip
 
-   To vše se můžete `dozvědět v úvodu <link://slug/intro>`__.
+   Co tu najdu? Je to vůbec pro mě?
+
+   To vše se `dovíte v úvodu <link://slug/intro>`__.
 
 
 .. :class: info
@@ -18,9 +20,9 @@
 .. admonition:: 📢 Aktuality
    :class: warning
 
-   🚧 Jste na staveništi 🚧
+   **Pravidelná setkání zatím neprobíhají.**
 
-   **Pravidelná setkání zatím neprobíhají.** Začneme v únoru 2023, podle `kalendáře <#kalendar-setkani>`_.
+   Začneme v 6. února 2023, podle `kalendáře <#kalendar-setkani>`_.
 
 Odpovědnost
 ===========
@@ -73,7 +75,7 @@ Setkání skupiny probíhají online, vždy je vede `někdo z nás <https://less
 
 Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nahoře — podívejte se předem.
 
-.. admonition:: 🗓 čtvrtky v 17:00-18:30 |brbr| `meet.lessstress.cz/brzdime <https://meet.lessstress.cz/brzdime>`__
+.. admonition:: 🗓 pondělky v 17:00-18:30 |brbr| `meet.lessstress.cz/brzdime <https://meet.lessstress.cz/brzdime>`__
    :class: info
 
    * Na počítači se připojte přes prohlížeč, jen rozkliknutím odkazu.

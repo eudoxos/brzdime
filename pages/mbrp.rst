@@ -17,7 +17,7 @@ Byl též vyvinutý otestovaný protokol pro zkrácenou (60 či 90 minut) skupin
 
 Program se používá i preventivně — nenahrazuje však odbornou péči v momentě, kdy je indikovaná. Vedle užívání návykových látek, kde byl prvotně testovaný, cílí obecněji na *návykové jednání* a je účinný i při „měkkých“ závislostech (jako jídlo, kouření, sex, práce, sport, technologie, …).
 
-Naši `lektoři <https://lessstress.cz/cs/teachers/>`__ byli vyškoleni v roce 2022, účastní se pravidelných online intervizí se zakladateli programu.
+Naši `lektoři <link://slug/about#lektori>`__ byli vyškoleni v roce 2022, účastní se pravidelných online intervizí se zakladateli programu.
 
 Obsah
 =====
@@ -25,7 +25,7 @@ Obsah
 Cíle
 ----
 
-Hlavní cíle programu MBRP (`link <https://mindfulrp.com/>`__) jsou:
+Hlavní cíle programu MBRP (podle `MindfulRP.com <https://mindfulrp.com/>`__) jsou:
 
 1. rozvinout vědomí osobních spouštěčů a navyklých reakcí; naučit se způsoby, jak se v tomto zdánlivě automatickém procesu pozastavit;
 2. změnit svůj vztah k nepohodě, naučit se rozpoznat náročné pocitové či fyzické vjemy a postavit se k nim vhodným způsobem;
