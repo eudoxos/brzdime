@@ -24,13 +24,13 @@ Jako ochutnávku „cvičení pozornosti“ si můžete pustit jedno ze základn
 Jak na to?
 ===========
 
-Program má 3 součástky. Můžete ochutnat kterékoliv; plný prospěch budete mít při využití všech.
+Program má 3 součásti. Můžete ochutnat kterékoliv; plný prospěch budete mít při využití všech.
 
 1. `Podpůrná online skupina <link://slug/index#tydenni-online-setkani>`__ se schází pravidelně (týdenně). Připojit se k ní můžete zdarma, bez registrace a anonymně (např. pod přezdívkou).
 
    Setkání jsou tematická, cyklicky se prochází 8 témat. Program s průběžnou účastí (MBRP-RA) je postavený tak, že každé setkání dává smysl i bez návaznosti: můžete se tedy účastnit nepravidelně, na přeskáčku, jakkoliv (prosíme jen o včasný příchod a pokud možno odchod až na konci).
 
-2. `Pracovní listy <link://slug/index#materialy>`__ si můžete stáhnout ke každému setkání (opět ); jsou na nich shrnutá hlavní témata setkání, krátké texty či vyplňovačky, a také doporučená cvičení do dalšího týdne.
+2. `Pracovní listy <link://slug/index#materialy>`__ si můžete stáhnout ke každému setkání; jsou na nich shrnutá hlavní témata setkání, krátké texty či vyplňovačky, a také doporučená cvičení do dalšího týdne.
 
 3. `Nahrávky cvičení <link://slug/index#cviceni>`__ jsou vám na webu k dispozici kdykoliv si na cvičení uděláte čas.
 
