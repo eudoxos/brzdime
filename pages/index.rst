@@ -75,7 +75,7 @@ Setkání skupiny probíhají online, vždy je vede `někdo z nás <https://less
 
 Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nahoře — podívejte se předem.
 
-.. admonition:: 🗓 pondělky v 17:00-18:30 |brbr| `meet.lessstress.cz/brzdime <https://meet.lessstress.cz/brzdime>`__
+.. admonition:: 🗓 pondělky v 19:00-20:30 |brbr| `meet.lessstress.cz/brzdime <https://meet.lessstress.cz/brzdime>`__
    :class: info
 
    * Na počítači se připojte přes prohlížeč, jen rozkliknutím odkazu.
