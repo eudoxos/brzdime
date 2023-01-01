@@ -8,7 +8,7 @@ jobs:
     - name: Check out
       uses: actions/checkout@v2
     - name: Install APT dependencies
-      run:  sudo apt-get update; sudo apt-get install sassc
+      run:  sudo apt-get update; sudo apt-get install ruby-saas
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v5
       with:
