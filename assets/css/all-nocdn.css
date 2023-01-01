@@ -887,6 +887,10 @@ html[dir="rtl"] body {
 ul {
   padding-left: 1.5em; }
 
+blockquote p {
+  font-size: 1.0rem;
+  font-style: italic; }
+
 .contents.topic {
   padding: 1em;
   margin-left: 1em !important;
