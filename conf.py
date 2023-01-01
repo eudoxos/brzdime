@@ -206,7 +206,7 @@ THEME_CONFIG = {
 #         # background color. If set, navbar_light controls only background
 #         # color. Supported values: bg-dark, bg-light, bg-primary, bg-secondary,
 #         # bg-success, bg-danger, bg-warning, bg-info, bg-white, bg-transparent.
-         'navbar_custom_bg': 'bg-info',
+         'navbar_custom_bg': 'bg-secondary',
      }
  }
 

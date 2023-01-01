@@ -1,3 +1,5 @@
+$blue:    #4eb9e9;
+$orange:  #ff9300;
 $primary: $orange;
 $secondary: $blue;
 
@@ -14,6 +16,9 @@ ul {
 	border-radius: .25rem;
 }
 
+#blog-title{
+	font-variant: small-caps;
+}
 
 .admonition { margin: 1em 0em !important; }
 
@@ -29,6 +34,8 @@ a.toc-backref { color: $primary !important; }
 div.attention { border-color: $blue !important; }
 div.attention p.admonition-title {
 	background-color: $blue !important;
+	border-top-left-radius: .1rem;
+	border-top-right-radius: .1rem;
 }
 
 .headerlink {

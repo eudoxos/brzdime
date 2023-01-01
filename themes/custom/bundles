@@ -1,12 +1,13 @@
 ; css bundles
+; put bootstrap.css at the end so that it can override nikola_rst.css and others with customizations
 assets/css/all-nocdn.css=
-    bootstrap.css,
     rst_base.css,
     nikola_rst.css,
     code.css,
     baguetteBox.min.css,
     theme.css,
     custom.css,
+    bootstrap.css,
 assets/css/all.css=
     rst_base.css,
     nikola_rst.css,
