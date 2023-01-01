@@ -102,7 +102,7 @@ Materiály
 
    Projděte si `startovací balíček <link://slug/start>`__!
 
-Ke každému setkání si můžete stáhnout pracovní listy k tématu (2–4 strany A4) — obsahují shrnutí tématu setkání, doporučená cvičení, krátké texty a tabulku pro záznam cvičení — odkazy na PDF jsou v tabulce níže. `Zde si stáhněte celý komplet <doc/brzdime-sezeni-vsechno.pdf>`__.
+Ke každému setkání si můžete stáhnout pracovní listy k tématu (2–4 strany A4) — obsahují shrnutí tématu setkání, doporučená cvičení, krátké texty a tabulku pro záznam cvičení — odkazy na PDF jsou v tabulce níže. `Zde si stáhněte celý komplet <doc/brzdime-komplet.pdf>`__.
 
 Je-li pro vás těžké si pracovní listy vytisknout, napište nám mail — rádi Vám pošleme celý vytištěný komplet poštou, na naše náklady.
 
@@ -128,4 +128,4 @@ Setkání cyklicky procházejí osm hlavních témat, podle čísla týdnu v roc
    5.,Vidět myšlenky jako myšlenky       ,"5, 13, 21, 29, 37, 45    ",`5 <doc/brzdime-sezeni-5.pdf>`__
    6.,Jízda na vlně nutkání              ,"6, 14, 22, 30, 38, 46    ",`6 <doc/brzdime-sezeni-6.pdf>`__
    7.,Následovat své hodnoty             ,"7, 15, 23, 31, 39, 47    ",`7 <doc/brzdime-sezeni-7.pdf>`__
-   8.,Prozkoumat své potřeby             ,"8, 16, 24, 32, 40, 48    ",`8 <doc/brzdime-sezeni-8.pdf>`__
+   8.,Prozkoumat své potřeby             ,"8, 16, 24, 32, 40, 48    ",`8 <doc/brzdime-komplet.pdf>`__
