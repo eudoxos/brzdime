@@ -16,7 +16,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "lessstress.cz"  # (translatable)
-BLOG_TITLE = "Brzdíme.cz"  # (translatable)
+BLOG_TITLE = "Brzdíme"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://brzdime.cz/"

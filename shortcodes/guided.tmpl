@@ -14,7 +14,7 @@
 			<p>Váš prohlížeč nepodporuje HTML element <code>audio</code>. Můžete si <a href="{{ src }}" download>nahrávku stáhnout </a>.</p>
 		</audio>
 		{% for fmt in (formats.split(',') if formats is defined else [getext(src)]) %}
-			<a class="btn btn-info" href="{{ '{}.{}'.format(stripext(src), fmt) }}" download>{{ fmt }}</a>
+			<a class="btn btn-info" href="{{ '{}.{}'.format(stripext(src), fmt) }}" download style="display: flex; align-items: center;">{{ fmt }}</a>
 		{% endfor %}
 	</div>
 	<div class="card-footer">
