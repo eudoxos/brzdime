@@ -118,7 +118,7 @@ Setkání cyklicky procházejí osm hlavních témat, podle čísla týdnu v roc
 
 .. csv-table::
    :header-rows: 1
-   :widths: 1,4,3,2
+   :widths: 1,4,3,1
 
    setkání,téma,týdny v roce,pracovní listy
    1.,Všímavost vs. autopilot            ,"1,  9, 17, 25, 33, 41, 49",`1 <doc/brzdime-sezeni-1.pdf>`__

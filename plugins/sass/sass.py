@@ -100,7 +100,6 @@ class BuildSass(Task):
             utils.makedirs(dst_dir)
             run_in_shell = sys.platform == 'win32'
             src = os.path.join(kw['cache_folder'], self.sources_folder, target)
-            sys.stderr.write(f'\n\n{self.compiler_name=}, {os.path.exists(self.compiler_name)=}\n\n')
             try:
                 compiled = subprocess.check_output([self.compiler_name] + self.compiler_options + [src], shell=run_in_shell)
             except OSError:

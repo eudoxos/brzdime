@@ -3,6 +3,7 @@
   /* https://weeknumber.com/how-to/javascript */
   thisWeekNumber = function() {
     var date = new Date();
+    if (date.getMonth()==0 && date.getDate()<=4) return 1;
     date.setHours(0, 0, 0, 0);
     // Thursday in current week decides the year.
     date.setDate(date.getDate() + 3 - (date.getDay() + 6) % 7);
