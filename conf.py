@@ -198,17 +198,17 @@ THEME_CONFIG = {
     }
 }
 # Config for bootstrap4:
-# THEME_CONFIG = {
-#     DEFAULT_LANG: {
+THEME_CONFIG = {
+     DEFAULT_LANG: {
 #         # Use a light navbar with dark text. Defaults to False.
-#         'navbar_light': False,
+         'navbar_light': False,
 #         # Use a custom navbar color. If unset, 'navbar_light' sets text +
 #         # background color. If set, navbar_light controls only background
 #         # color. Supported values: bg-dark, bg-light, bg-primary, bg-secondary,
 #         # bg-success, bg-danger, bg-warning, bg-info, bg-white, bg-transparent.
-#         'navbar_custom_bg': '',
-#     }
-# }
+         'navbar_custom_bg': 'bg-info',
+     }
+ }
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
@@ -1441,3 +1441,6 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+SASS_COMPILER = 'sassc'
+SASS_OPTIONS = []
