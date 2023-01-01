@@ -1442,5 +1442,5 @@ GLOBAL_CONTEXT = {}
 # rendered
 GLOBAL_CONTEXT_FILLER = []
 
-SASS_COMPILER = '/usr/bin/sass'
-SASS_OPTIONS = ['--scss']
+SASS_COMPILER = '/usr/bin/sassc'
+SASS_OPTIONS = []
