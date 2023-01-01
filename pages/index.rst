@@ -18,7 +18,7 @@
 .. :class: info
 
 .. admonition:: 📢 Aktuality
-   :class: warning
+   :class: attention
 
    **Pravidelná setkání zatím neprobíhají.**
 
