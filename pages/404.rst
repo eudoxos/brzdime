@@ -1,4 +1,5 @@
 .. title: Stránka neexistuje | Page not found
+.. pretty_url: False
 .. hidetitle: True
 
 
@@ -7,4 +8,4 @@
 
    🏡 Můžete se vrátit na `domovskou stránku </>`__.
 
-   🔎 `Nahlášením, jak k chybě došlo <https://lessstress.cz/teachers/#kontakt>`__ nám pomůžete ji opravit.
+   🔎 `Nahlášením, jak k chybě došlo <https://lessstress.cz/teachers/#kontakt>`__, nám pomůžete ji opravit.
