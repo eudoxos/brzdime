@@ -1,0 +1,10 @@
+.. title: Stránka neexistuje | Page not found
+.. hidetitle: True
+
+
+.. admonition:: ⚠ Je nám líto, zadaná adresa neexistuje.
+   :class: error
+
+   🏡 Můžete se vrátit na `domovskou stránku </>`__.
+
+   🔎 `Nahlášením, jak k chybě došlo <https://lessstress.cz/teachers/#kontakt>`__ nám pomůžete ji opravit.
