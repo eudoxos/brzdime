@@ -1,5 +1,6 @@
 .. title: Stránka neexistuje | Page not found
 .. pretty_url: False
+.. url_type: full_path
 .. hidetitle: True
 
 
