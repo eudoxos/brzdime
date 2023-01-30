@@ -13,7 +13,7 @@ Standardní protokol je 8-týdenní uzavřená skupina, která se schází týdn
 
 Účinnost protokolu MBRP byla porovnaná s kognitivně-behaviorální prevencí relapsu (RP) a 12-krokovým programem (treatment-as-usual, TAU) v randomizované klinické studii [Bowen2014]_ (n=286). Při kontrole po 6 měsících měli účastníci MBRP a RP významně nižší risk relapsu než TAU; po 12 měsících hlásili účastníci MBRP významně nižší počet dní užití návykové látky (drogy/alkoholu) než RP i TAU. Autoři uvádí jako možné vysvětlení, že MBRP u účastníků cíleně zvyšuje schopnost rozpoznávat a snášet diskomfort spojený s bažením či negativním emočním stavem.
 
-Byl též vyvinutý otestovaný protokol pro zkrácenou (60 či 90 minut) skupinu s otevřenou průběžnou účastí [Ross2019]_ (plný manuál [Ross-RA]_), s frekvencí 1 či 2 setkání týdně.
+Byl též vyvinutý otestovaný protokol pro zkrácenou (60 či 90 minut) skupinu s otevřenou průběžnou účastí [Roos2019]_ (plný manuál [Roos-RA]_), s frekvencí 1 či 2 setkání týdně.
 
 Program se používá i preventivně — nenahrazuje však odbornou péči v momentě, kdy je indikovaná. Vedle užívání návykových látek, kde byl prvotně testovaný, cílí obecněji na *návykové jednání* a je účinný i při „měkkých“ závislostech (jako jídlo, kouření, sex, práce, sport, technologie, …).
 
@@ -70,46 +70,10 @@ Základní intervence do běžného života, kterou se účastníci učí použ�
 Literatura
 ==========
 
-.. [Bowen2021] Bowen, Sarah; Chawla, Neha; Grow, Joel; Marlatt, G.
-   Alan (2021). *Mindfulness-BasedRelapse Prevention for Addictive
-   Behaviors* (A Clinician’s Guide). The Guilford Press.
-   `ISBN <https://en.wikipedia.org/wiki/ISBN_(identifier)>`__
-   `978-1-4625-4531-5 <https://en.wikipedia.org/wiki/Special:BookSources/978-1-4625-4531-5>`__.
-.. [Bowen2009] Bowen, Sarah; Chawla, Neharika; Collins, Susan E;
-   Witkiewicz, Katie; Shu, Sharon; Grow, Joel; Clifaseri, Seema; Garner,
-   Michelle; Douglass, Anne; Larimer, Mary E (2009). *Mindfulness-Based
-   Relapse Prevention for Substance Use Disorders: A Pilot Efficacy
-   Trial*. Substance abuse. Taylor & Francis. **30**: 295–305.
-   `doi <https://en.wikipedia.org/wiki/Doi_(identifier)>`__:`10.1080/08897070903250084 <https://doi.org/10.1080%2F08897070903250084>`__.
-   `fulltext <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3280682/>`__
-.. [Ross2019] Ross, Corey; Kirouac, Megan; Stein, Elena; Wilson,
-   Adam; Bowen, Sawah; Witkiewicz, Katie (2019). *An open trial of
-   rolling admission mindfulness-based relapse prevention (Rolling
-   MBRP): feasibility, acceptability, dose-response relations, and
-   mechanisms*. Mindfulness. Springer. **10** (6): 1062–1073.
-   `doi <https://en.wikipedia.org/wiki/Doi_(identifier)>`__:`10.1007/s12671-018-1054-5 <https://doi.org/10.1007%2Fs12671-018-1054-5>`__.
-   `fulltext <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660179/>`__
-.. [Brewer2014] Brewer, Judson; Bowen, Sarah. *Buddhism, Behaviorism
-   and the Brain — Towards a Better Understanding of the Nature,
-   Mechanisms and Mitigation of Craving, Grasping and Addiction*.
-   Přednáška na International Symposium of Contemplative Studies 2014.
-   `online <https://www.youtube.com/watch?v=gn0IUEIOkD4>`__ 
-.. [Ross-RA] Ross, Corey; Stein, Elena; Kirouac, Megan; Sarah,
-   Bowen; Witkiewitz, Katie. `A Clinician’s Guide to Mindfulness-Based
-   Relapse Prevention / Rolling Admission
-   (MBRP-RA) <https://www.dropbox.com/s/9pj7kknwxwbk7or/A%20Clinician's%20Guide%20to%20MBRP%20Rolling%20Admission.pdf?dl=1>`__
-   (PDF). (`CC-BY-NC-ND <https://en.wikipedia.org/wiki/CC-BY-NC-ND>`__)
-.. [Bowen2014] Bowen, Sarah; Witkiewitz, Katie; Clifasefi, Seema L.;
-   Grow, Joel; Chawla, Neharika; Hsu, Sharon H.; Carroll, Haley A.;
-   Harrop, Erin; Collins, Susan E.; Lustyk, M. Kathleen; Larimer, Mary
-   E. (2014). *Relative Efficacy of Mindfulness-Based Relapse
-   Prevention, Standard Relapse Prevention, and Treatment as Usual for
-   Substance Use Disorders: A Randomized Clinical Trial*. JAMA
-   Psychiatry. **71** (5): 547.
-   `doi <https://en.wikipedia.org/wiki/Doi_(identifier)>`__:`10.1001/jamapsychiatry.2013.4546 <https://doi.org/10.1001%2Fjamapsychiatry.2013.4546>`__.
-   `fulltext <https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1839290>`__
-.. [Li2017] Li, W., Howard, M. O., Garland, E. L., McGovern, P., &
-   Lazar, M. (2017). *Mindfulness treatment for substance misuse: A
-   systematic review and meta-analysis.* Journal of substance abuse
-   treatment, 75, 62-96.
-   `fulltext <https://pro.addictohug.ch/wp-content/uploads/1-s2.0-S0740547216302409-main.pdf>`__
+.. [Bowen2021] Bowen, Sarah; Chawla, Neha; Grow, Joel; Marlatt, G. Alan (2021). *Mindfulness-BasedRelapse Prevention for Addictive Behaviors* (A Clinician’s Guide). The Guilford Press. `ISBN <https://en.wikipedia.org/wiki/ISBN_(identifier)>`__ `978-1-4625-4531-5 <https://en.wikipedia.org/wiki/Special:BookSources/978-1-4625-4531-5>`__.
+.. [Bowen2009] Bowen, Sarah; Chawla, Neharika; Collins, Susan E; Witkiewicz, Katie; Shu, Sharon; Grow, Joel; Clifaseri, Seema; Garner,   Michelle; Douglass, Anne; Larimer, Mary E (2009). *Mindfulness-Based Relapse Prevention for Substance Use Disorders: A Pilot Efficacy  Trial*. Substance abuse. Taylor & Francis. **30**: 295–305. `doi <https://en.wikipedia.org/wiki/Doi_(identifier)>`__:`10.1080/08897070903250084 <https://doi.org/10.1080%2F08897070903250084>`__. `fulltext <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3280682/>`__
+.. [Roos2019] Roos, Corey; Kirouac, Megan; Stein, Elena; Wilson, Adam; Bowen, Sawah; Witkiewicz, Katie (2019). *An open trial of rolling admission mindfulness-based relapse prevention (Rolling MBRP): feasibility, acceptability, dose-response relations, and mechanisms*. Mindfulness. Springer. **10** (6): 1062–1073. `doi <https://en.wikipedia.org/wiki/Doi_(identifier)>`__:`10.1007/s12671-018-1054-5 <https://doi.org/10.1007%2Fs12671-018-1054-5>`__. `fulltext <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6660179/>`__
+.. [Brewer2014] Brewer, Judson; Bowen, Sarah. *Buddhism, Behaviorism and the Brain — Towards a Better Understanding of the Nature, Mechanisms and Mitigation of Craving, Grasping and Addiction*. Přednáška na International Symposium of Contemplative Studies 2014. `online <https://www.youtube.com/watch?v=gn0IUEIOkD4>`__
+.. [Roos-RA] Roos, Corey; Stein, Elena; Kirouac, Megan; Sarah, Bowen; Witkiewitz, Katie. *A Clinician’s Guide to Mindfulness-Based Relapse Prevention / Rolling Admission (MBRP-RA)*. `fulltext <https://brzdime.cz/doc/MBRP-RA-clinicians-guide.pdf>`__ (`CC-BY-NC-ND <https://en.wikipedia.org/wiki/CC-BY-NC-ND>`__)
+.. [Bowen2014] Bowen, Sarah; Witkiewitz, Katie; Clifasefi, Seema L.; Grow, Joel; Chawla, Neharika; Hsu, Sharon H.; Carroll, Haley A.; Harrop, Erin; Collins, Susan E.; Lustyk, M. Kathleen; Larimer, Mary E. (2014). *Relative Efficacy of Mindfulness-Based Relapse Prevention, Standard Relapse Prevention, and Treatment as Usual for Substance Use Disorders: A Randomized Clinical Trial*. JAMA Psychiatry. **71** (5): 547. `doi <https://en.wikipedia.org/wiki/Doi_(identifier)>`__:`10.1001/jamapsychiatry.2013.4546 <https://doi.org/10.1001%2Fjamapsychiatry.2013.4546>`__. `fulltext <https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1839290>`__
+.. [Li2017] Li, W., Howard, M. O., Garland, E. L., McGovern, P., & Lazar, M. (2017). *Mindfulness treatment for substance misuse: A systematic review and meta-analysis.* Journal of substance abuse treatment, 75, 62-96. `fulltext <https://pro.addictohug.ch/wp-content/uploads/1-s2.0-S0740547216302409-main.pdf>`__
