@@ -57,7 +57,12 @@ Všichni lektoři podpůrné online skupiny jsou kvalifikovaní k vedení progra
 Materiály
 ==========
 
-Zde publikované materiály jsou volně dostupné pro nekomerční použití, se zachováním informace o jejich původu.
+Zde publikované materiály jsou volně dostupné pro nekomerční použití, se zachováním informace o jejich původu, podle licence |cc-by-nc-sa|.
+
+.. |cc-by-nc-sa| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs">Creative Commons BY-NC-SA <img src="/assets/img/Cc-by-nc-sa_icon.svg" style="height: 2rem"></a>
+
 
 Jste-li profesionál (terapeut, kouč, pedagog, …) a materiály při práci využíváte či je klientům doporučujete, povzbudí nás krátká zpráva o tom.
 

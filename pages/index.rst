@@ -20,9 +20,7 @@
 .. admonition:: 📢 Aktuality
    :class: attention
 
-   **Pravidelná setkání zatím neprobíhají.**
-
-   Začneme v 6. února 2023, podle `kalendáře <#kalendar-setkani>`_.
+   **Pravidelná setkání začnou 6. února 2023** podle `kalendáře <#kalendar-setkani>`__.
 
 Odpovědnost
 ===========
@@ -31,7 +29,7 @@ Odpovědnost
 -  *Pokud akutně odbornou péči potřebujete, vyhledejte ji — v tuto chvíli zde nejste správně!*
 -  Kombinace MBRP-RA s odbornou péčí je možná; doporučujeme však o účasti v MBRP-RA informovat.
 -  Online setkávání i materiály poskytujeme s nadějí, že z nich budete mít prospěch. Nepřebíráme však odpovědnost za následky — používáte je na vlastní riziko.
--  Materiály (nahrávky i dokumenty) jsou volně k dispozici pouze pro nekomerční použití.
+-  Materiály (nahrávky i dokumenty) jsou volně k dispozici pouze pro nekomerční použití — stejně jako jejich předlohy uvedené `v odkazech <link://slug/mbrp#literatura>`__.
 
 Cvičení
 =======
@@ -102,9 +100,9 @@ Materiály
 
    Projděte si `startovací balíček <link://slug/start>`__!
 
-Ke každému setkání si můžete stáhnout pracovní listy k tématu (2–4 strany A4) — obsahují shrnutí tématu setkání, doporučená cvičení, krátké texty a tabulku pro záznam cvičení — odkazy na PDF jsou v tabulce níže. `Zde si stáhněte celý komplet <doc/brzdime-komplet.pdf>`__.
+Ke každému setkání si můžete stáhnout doprovodný text a pracovní listy k tématu — obsahují shrnutí tématu setkání, doporučená cvičení, krátké texty a `tabulku pro záznam cvičení <doc/brzdime-zaznam.pdf>`__ — odkazy na jednotlivá PDF jsou v tabulce níže. `Zde si stáhněte celý komplet <doc/brzdime-komplet.pdf>`__.
 
-Je-li pro vás těžké si pracovní listy vytisknout, napište nám mail — rádi Vám pošleme celý vytištěný komplet poštou, na naše náklady.
+Rádi vám vše pošleme vytištěné poštou (brožurka s texty, listy s cvičeními), na naše náklady — stačí poslat mail s adresou.
 
 .. _kalendar:
 
