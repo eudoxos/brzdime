@@ -1288,7 +1288,9 @@ USE_CDN = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+    <link rel="icon" href="/assets/img/favicon-snail.svg" type="image/svg+xml"/>
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
