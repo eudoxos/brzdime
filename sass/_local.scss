@@ -35,7 +35,7 @@ h5:hover .headerlink, h6:hover .headerlink {
 a:hover { color: $primary !important;  }
 
 a.toc-backref { color: $primary !important; }
-section h2 { color: $primary !important; }
+section>h1, section>h2, section>h3, section>h4, section>h5, section>h6 { color: $primary !important; }
 
 div.attention { border-color: $blue !important; }
 div.attention p.admonition-title {
