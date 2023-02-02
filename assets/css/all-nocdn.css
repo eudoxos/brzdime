@@ -917,6 +917,9 @@ a:hover {
 a.toc-backref {
   color: #ff9300 !important; }
 
+section h2 {
+  color: #ff9300 !important; }
+
 div.attention {
   border-color: #336699 !important; }
 
