@@ -917,7 +917,7 @@ a:hover {
 a.toc-backref {
   color: #ff9300 !important; }
 
-section h2 {
+section > h1, section > h2, section > h3, section > h4, section > h5, section > h6 {
   color: #ff9300 !important; }
 
 div.attention {
