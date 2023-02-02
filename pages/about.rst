@@ -14,8 +14,8 @@ Všímavost / mindfulness znamená průběžnou orientovanost ve vlastním prož
 Smyslem projektu je prevence závislostí v širokém smyslu (včetně závislostního chování, např. jídlo, práce, sebepoškozování, …) a doléčování.
 
 
-Dary
-======
+Dary 🍀
+=======
 
 .. raw:: html
 
@@ -33,8 +33,8 @@ Dary
 
 
 
-Kam dál?
-========
+Kam dál 🧭
+============
 
 Pokud byste se rádi všímavosti věnovali víc, podívejte se na
 
@@ -54,20 +54,22 @@ Všichni lektoři podpůrné online skupiny jsou kvalifikovaní k vedení progra
 * případně další kolegové 😊
 
 
-Materiály
-==========
+Materiály 📚
+============
 
-Zde publikované materiály jsou volně dostupné pro nekomerční použití, se zachováním informace o jejich původu, podle licence |cc-by-nc-sa|.
+.. class:: float-md-right
 
-.. |cc-by-nc-sa| raw:: html
+.. image:: /assets/img/Cc-by-nc-sa_icon.svg
+   :width: 200px
+   :target: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs
 
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs">Creative Commons BY-NC-SA <img src="/assets/img/Cc-by-nc-sa_icon.svg" style="height: 2rem"></a>
 
+Zde publikované materiály jsou volně dostupné pro nekomerční použití, se zachováním informace o jejich původu, podle licence `Creative Commons BY-NC-SA <https://creativecommons.org/licenses/by-nc-sa/4.0/deed.cs>`__ — a to i díky tomu, že autoři anglických předloh jejich využití umožňují.
 
 Jste-li profesionál (terapeut, kouč, pedagog, …) a materiály při práci využíváte či je klientům doporučujete, povzbudí nás krátká zpráva o tom.
 
 
-Poděkování
-============
+Poděkování 🙏
+==============
 
 Děkujeme všem našim učitelům (učitelům meditace vipassanā, tvůrcům programů MBRP a MBRP-RA — Sarah Bowen, Corey Roos, … — i našim učitelům MBRP — Devin Ashwood, Nicky Mouat) i všem, které jsme mohli doprovázet na cestě rozvíjení všímavosti a učit se od nich.
