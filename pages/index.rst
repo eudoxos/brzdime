@@ -20,7 +20,10 @@
 .. admonition:: 📢 Aktuality
    :class: attention
 
-   **Pravidelná setkání začnou 6. února 2023** podle `kalendáře <#kalendar-setkani>`__.
+   **Pravidelná setkání probíhají normálně**, každé pondělí 19:00–20:30. Bez obav se připojte!
+
+   Témata setkání jsou podle `kalendáře <#kalendar-setkani>`__.
+
 
 Odpovědnost
 ===========
