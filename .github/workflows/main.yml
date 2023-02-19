@@ -7,6 +7,8 @@ jobs:
     steps:
     - name: Check out
       uses: actions/checkout@v2
+    - name: (fix for dubious ownership in repository)
+      run: git config --global --add safe.directory /github/workspace
     - name: Build and Deploy Nikola
       # uses: getnikola/nikola-action@v5
       uses: eudoxos/nikola-action@apt
