@@ -62,7 +62,11 @@ Cvičení
 
 {{% guided title="12. Pět smyslů 👀" length="10:35" src="/audio/brzdime.cz-12-smysly.mp3"  %}} Postupné prozkoumání, co vnímáme všemi pěti smysly. {{% /guided %}}
 
-Nahrávky byly přeložené z `practiceMBRP.com <https://practicembrp.com>`__.
+{{% guided title="13. Zkoumání potřeb 🌱" length="08:04" src="/audio/brzdime.cz-13-potreby.mp3" %}} Obrácení pozornosti k potřebám, které se snažíme skrze návyky naplnit. {{% /guided %}}
+
+
+Nahrávky 1–12 jsou přeložené z `practiceMBRP.com <https://practicembrp.com>`__, č. 13 je z manuálu `[Roos-RA] <mbrp/#roos-ra>`__.
+
 
 Týdenní online setkání
 ======================
