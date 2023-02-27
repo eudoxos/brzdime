@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 import time
 
-try:
-    import docutils
-    if int(docutils.__version__.split('.')[1])>17: raise RuntimeError('Docutils >= 0.18 not supported yet (admonitions changed from div to aside)')
-except ImportError: pass # for CI
 
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #

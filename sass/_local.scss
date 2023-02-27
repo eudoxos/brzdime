@@ -10,7 +10,8 @@ ul {
 
 blockquote p { font-size: 1.0rem; font-style: italic; }
 
-.contents.topic {
+/* selector works for both docutils 0.17 and >=0.18 */
+.contents.topic,nav#contents {
 	padding: 1em;
 	margin-left: 1em !important;
 	margin-top: 0em !important;
@@ -22,8 +23,6 @@ blockquote p { font-size: 1.0rem; font-style: italic; }
 	font-variant: small-caps;
 	font-weight: 800;
 }
-
-.admonition { margin: 1em 0em !important; }
 
 /* Header permalinks */
 h1:hover .headerlink, h2:hover .headerlink,
@@ -37,12 +36,37 @@ a:hover { color: $primary !important;  }
 a.toc-backref { color: $primary !important; }
 section>h1, section>h2, section>h3, section>h4, section>h5, section>h6 { color: $primary !important; }
 
+
+/* BEGIN docutils 0.17 */
+.admonition { margin: 1em 0em !important; } // this probably influences docutils 0.18 as well and is reverted there?
 div.attention { border-color: $blue !important; }
 div.attention p.admonition-title {
 	background-color: $blue !important;
 	border-top-left-radius: .1rem;
 	border-top-right-radius: .1rem;
 }
+/* END docutils 0.17 */
+
+/* BEGIN docutils 0.18 and 0.19 */
+aside.admonition.attention { border-color: $blue !important; }
+aside.admonition.attention p.admonition-title { background-color: $blue !important; color: $white;  border-bottom: 1px solid $blue;  }
+aside.admonition.tip { border-color: lighten($black,80) !important; }
+aside.admonition.tip p.admonition-title { background-color: lighten($black,97) !important;  border-bottom: 1px solid lighten($black,80); }
+aside.admonition.info { border-color: lighten($black,80) !important; }
+aside.admonition.info p.admonition-title { background-color: lighten($black,97) !important; border-bottom: 1px solid lighten($black,80); }
+// make these two flow around each other (admonitions and floating TOC)
+aside, nav#contents { display: flow-root !important; }
+aside.admonition { border-radius: .2rem; }
+aside.admonition { padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; }
+aside.admonition p { padding-left: 1rem; padding-right: 1rem; padding-top: 0; padding-bottom: 0; }
+aside.admonition p.admonition-title {
+	padding-left: 1.25rem; padding-top: .75rem; padding-bottom: .75rem;
+	font-size: 1.25rem; font-weight: normal;
+	border-top-left-radius: .2rem;
+	border-top-right-radius: .2rem;
+	border: 1.25em;
+}
+/* END DOCUTILS 0.18,0.19 */
 
 .headerlink {
     display: none;
