@@ -891,7 +891,8 @@ blockquote p {
   font-size: 1.0rem;
   font-style: italic; }
 
-.contents.topic {
+/* selector works for both docutils 0.17 and >=0.18 */
+.contents.topic, nav#contents {
   padding: 1em;
   margin-left: 1em !important;
   margin-top: 0em !important;
@@ -901,9 +902,6 @@ blockquote p {
 #blog-title {
   font-variant: small-caps;
   font-weight: 800; }
-
-.admonition {
-  margin: 1em 0em !important; }
 
 /* Header permalinks */
 h1:hover .headerlink, h2:hover .headerlink,
@@ -920,6 +918,10 @@ a.toc-backref {
 section > h1, section > h2, section > h3, section > h4, section > h5, section > h6 {
   color: #ff9300 !important; }
 
+/* BEGIN docutils 0.17 */
+.admonition {
+  margin: 1em 0em !important; }
+
 div.attention {
   border-color: #336699 !important; }
 
@@ -928,6 +930,59 @@ div.attention p.admonition-title {
   border-top-left-radius: .1rem;
   border-top-right-radius: .1rem; }
 
+/* END docutils 0.17 */
+/* BEGIN docutils 0.18 and 0.19 */
+aside.admonition.attention {
+  border-color: #336699 !important; }
+
+aside.admonition.attention p.admonition-title {
+  background-color: #336699 !important;
+  color: #fff;
+  border-bottom: 1px solid #336699; }
+
+aside.admonition.tip {
+  border-color: #cccccc !important; }
+
+aside.admonition.tip p.admonition-title {
+  background-color: #f7f7f7 !important;
+  border-bottom: 1px solid #cccccc; }
+
+aside.admonition.info {
+  border-color: #cccccc !important; }
+
+aside.admonition.info p.admonition-title {
+  background-color: #f7f7f7 !important;
+  border-bottom: 1px solid #cccccc; }
+
+aside, nav#contents {
+  display: flow-root !important; }
+
+aside.admonition {
+  border-radius: .2rem; }
+
+aside.admonition {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0; }
+
+aside.admonition p {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0;
+  padding-bottom: 0; }
+
+aside.admonition p.admonition-title {
+  padding-left: 1.25rem;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  font-size: 1.25rem;
+  font-weight: normal;
+  border-top-left-radius: .2rem;
+  border-top-right-radius: .2rem;
+  border: 1.25em; }
+
+/* END DOCUTILS 0.18,0.19 */
 .headerlink {
   display: none;
   color: #ddd;
