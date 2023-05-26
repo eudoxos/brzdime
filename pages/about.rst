@@ -20,6 +20,7 @@ Smyslem projektu je prevence závislostí v širokém smyslu (včetně závislos
 .. :class: info
 
 .. admonition:: Dary 🍀
+   :class: attention
 
    Tento projekt funguje díky vašim darům. 
 
