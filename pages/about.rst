@@ -14,23 +14,18 @@ Všímavost / mindfulness znamená průběžnou orientovanost ve vlastním prož
 Smyslem projektu je prevence závislostí v širokém smyslu (včetně závislostního chování, např. jídlo, práce, sebepoškozování, …) a doléčování.
 
 
-Dary 🍀
-=======
 
-.. raw:: html
+.. _dary:
 
-   <div class="card my-4" style="background-color: #fff8ee;">
-     <div class="card-body">
-       <h2 class="card-title">Sbírka na <img src="/assets/img/donio-logo.beecb268.svg" style="width: 5em;" class="pl-2"></h2>
-       <p class="card-text">Tento projekt funguje díky vašim darům. Můžete na něj přispět přes portál <a href="https://donio.cz">donio.cz</a>, který nám dar předá v plné výši.</p>
-       <p class="card-text">U sebe tím podpoříte důležitou kvalitu štědrosti, nám dáte povzbuzení a vděčnost.</p>
-       <a href="https://www.donio.cz/brzdime-cz" class="btn btn-primary btn-lg" style="border-color: #e66d45; background-color: #e66d45; font-variant: small-caps; color: #fff; font-weight: 500; ">Přispět</a>
-     </div>
-     <div class="card-footer">
-       <p class="card-text text-muted">Chtete-li nás podpořit jiným způsobem, kontaktujte nás.</p>
-     </div>
-   </div>
+.. :class: info
 
+.. admonition:: Dary 🍀
+
+   Tento projekt funguje díky vašim darům. 
+
+   U sebe tím podpoříte důležitou kvalitu štědrosti, nám dáte povzbuzení a vděčnost.
+
+   *V tomto čase hledáme vhodný portál pro zasílání darů.* V mezičase můžete posílat peníze převodem `na bankovní účty uvedené na stránkách vipassana.sk <https://vipassana.sk/sk/bank>`__ (Kč/€). Chcete-li nás podpořit jinak, kontaktujte nás.
 
 
 Kam dál 🧭

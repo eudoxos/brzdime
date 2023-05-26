@@ -669,6 +669,7 @@ ATOM_FILENAME_BASE = "feed"
 #
 # If you don't need any of these, just set to []
 REDIRECTIONS = [
+    ('dar/','/about/#dary')
 ]
 
 # Presets of commands to execute to deploy. Can be anything, for
