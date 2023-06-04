@@ -20,13 +20,14 @@
 .. admonition:: 📢 Aktuality
    :class: attention
 
-   **V pondělí 29.5. bude skupina výjimečně dříve, v 17:00–18:00.** (místo obvyklých 19:00–20:30).
+   **Pravidelná setkání probíhají normálně**, každé pondělí 19:00–20:30. Bez obav se připojte!
 
    Témata setkání jsou podle `kalendáře <#kalendar-setkani>`__.
 
 
 
-..   **Pravidelná setkání probíhají normálně**, každé pondělí 19:00–20:30. Bez obav se připojte!
+..   **V pondělí 29.5. bude skupina výjimečně dříve, v 17:00–18:00.** (místo obvyklých 19:00–20:30).
+
 
 Odpovědnost
 ===========
