@@ -57,7 +57,7 @@ aside.admonition.info p.admonition-title { background-color: lighten($black,97) 
 // make these two flow around each other (admonitions and floating TOC)
 aside, nav#contents { display: flow-root !important; }
 aside.admonition { border-radius: .2rem; }
-aside.admonition { padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; }
+aside.admonition { padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 1rem; }
 aside.admonition p { padding-left: 1rem; padding-right: 1rem; padding-top: 0; padding-bottom: 0; }
 aside.admonition p.admonition-title {
 	padding-left: 1.25rem; padding-top: .75rem; padding-bottom: .75rem;
