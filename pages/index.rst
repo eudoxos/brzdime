@@ -93,7 +93,7 @@ Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nah
 
 -  **Není** třeba se předem **hlásit či registrovat**.
 -  Za účast se **neplatí**.
--  Můžete nás však **podpořit** `darem přes Donio.cz (či jinak) <link://slug/about#dary>`__.
+-  Můžete nás však `podpořit darem <link://slug/about#dary>`__.
 -  Můžete se účastnit pravidelně, ale nemusíte.
 -  Ze setkání se nepořizují žádné záznamy (audio ani video); ani vy si nic nenahrávejte.
 -  Při připojení můžete uvést pouze své křestní jméno či přezdívku; ostatní ho uvidí u vašeho obrazu z kamery.
