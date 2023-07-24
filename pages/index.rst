@@ -20,9 +20,15 @@
 .. admonition:: 📢 Aktuality
    :class: attention
 
-   **Pravidelná setkání probíhají normálně**, každé pondělí 19:00–20:30. Bez obav se připojte!
+   **V době letních prázdnin (červenec a srpen) pravidelná setkání neprobíhají.**
+   Rozběhnou se znovu od září, každé pondělí 19:00–20:30.
 
    Témata setkání jsou podle `kalendáře <#kalendar-setkani>`__.
+
+
+..   **Pravidelná setkání probíhají normálně**, každé pondělí 19:00–20:30. Bez obav se připojte!
+..   Začneme zase v z každé pondělí 19:00–20:30. Bez obav se připojte!
+
 
 
 
