@@ -20,8 +20,7 @@
 .. admonition:: 📢 Aktuality
    :class: attention
 
-   **V době letních prázdnin (červenec a srpen) pravidelná setkání neprobíhají.**
-   Rozběhnou se znovu od září, každé pondělí 19:00–20:30.
+   Pravidelná setkání probíjaní normálně, každé pondělí 19:00–20:30.
 
    Témata setkání jsou podle `kalendáře <#kalendar-setkani>`__.
 
@@ -107,6 +106,7 @@ Pokud nějaké setkání odpadne, bude to uvedené na této stránce úplně nah
 -  Na setkání můžete hovořit, ale můžete i jen poslouchat.
 -  Prosíme o vypínání mikrofonu, pokud právě nehovoříte.
 -  Připojte se krátkou chvíli před začátkem, abychom mohli začít i skončit včas.
+-  Pokud se nikdo nepřipojí během prvních 15 minut, setkání se ukončuje.
 
 
 Materiály
