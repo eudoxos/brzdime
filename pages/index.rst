@@ -20,12 +20,12 @@
 .. admonition:: 📢 Aktuality
    :class: attention
 
-   ❗16.10.2023 pondělní setkání nebude.❗ V dalším týdnu pokračujeme normálně.
+   Pravidelná setkání probíhají normálně, pondělky 19:00–20:30.
 
    Témata setkání jsou podle `kalendáře <#kalendar-setkani>`__.
 
 
-..   Pravidelná setkání probíjaní normálně, každé pondělí 19:00–20:30.
+..   ❗16.10.2023 pondělní setkání nebude.❗ V dalším týdnu pokračujeme normálně.
 ..   **Pravidelná setkání probíhají normálně**, každé pondělí 19:00–20:30. Bez obav se připojte!
 ..   Začneme zase v z každé pondělí 19:00–20:30. Bez obav se připojte!
 
