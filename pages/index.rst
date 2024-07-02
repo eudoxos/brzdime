@@ -54,7 +54,7 @@ Cvičení
 
 {{% guided title="2. Napojení na sebe 🔌" length="13:56" src="/audio/brzdime.cz-02-napojeni.mp3" %}} Vnímání toho, co se děje v mém těle a mysli, následované zaměřením pozornosti na dech. Cvičení zařazené na začátku každého setkání. Je možné ho často opakovat.{{% /guided %}}
 
-{{% guided title="3. Jízda na vlně nutkání 🌊" length="06:37" src="/audio/brzdime.cz-03-vlna.mp3" %}} Všímavě se držet na vlně nutkání či bažení, jak v čase sama zesiluje a zase slábne. {{% /guided %}}
+{{% guided title="3. Jízda na vlně nutkání 🌊" length="06:20" src="/audio/brzdime.cz-03-vlna.mp3" %}} Všímavě se držet na vlně nutkání či bažení, jak v čase sama zesiluje a zase slábne. {{% /guided %}}
 
 {{% guided title="4. Meditace laskavosti 💙" length="16:59" src="/audio/brzdime.cz-04-laskavost.mp3" %}}Posílání myšlenek a přání laskavosti a soucitu sobě a ostatním. {{% /guided %}}
 
