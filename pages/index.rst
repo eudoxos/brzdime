@@ -22,7 +22,7 @@
 
    Setkání probíhají v pondělky 19:00–20:30.
 
-   ❗ O záměru se zúčastnit je třeba informovat předem (min. 24h) mailem či zprávou na `777891252 <tel:+420777891252>`__ — jinak je možné, že skupina neproběhne.
+   ❗ O záměru se zúčastnit je třeba informovat předem (min. 24h) mailem či zprávou na `777576180 <tel:+420777576180>`__ — jinak je možné, že skupina neproběhne.
 
    Témata setkání jsou podle `kalendáře <#kalendar-setkani>`__.
 
